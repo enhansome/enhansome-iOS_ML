@@ -86,7 +86,7 @@
             "last_commit": "2023-01-07T21:33:23Z",
             "owner": "karpathy",
             "repo": "convnetjs",
-            "stars": 11193
+            "stars": 11194
           }
         },
         {
@@ -208,10 +208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-13T04:07:35Z",
+                "last_commit": "2026-08-14T03:04:54Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 196987
+                "stars": 197011
               }
             },
             {
@@ -296,7 +296,7 @@
             "last_commit": "2023-11-07T10:28:36Z",
             "owner": "xmartlabs",
             "repo": "Bender",
-            "stars": 1800
+            "stars": 1801
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2018-05-18T20:25:35Z",
             "owner": "hollance",
             "repo": "Forge",
-            "stars": 1265
+            "stars": 1264
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2020-12-13T08:49:55Z",
             "owner": "NMAC427",
             "repo": "SwiftOCR",
-            "stars": 4633
+            "stars": 4632
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28012
+            "stars": 28014
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28012
+            "stars": 28014
           }
         },
         {
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:02.246Z",
+    "last_updated": "2026-08-14T03:31:27.226Z",
     "original_repository": "alexsosn/iOS_ML",
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
