@@ -57,7 +57,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34572
+            "stars": 34574
           }
         },
         {
@@ -208,10 +208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-14T03:04:54Z",
+                "last_commit": "2026-08-15T02:12:20Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197011
+                "stars": 197022
               }
             },
             {
@@ -515,7 +515,7 @@
             "last_commit": "2023-10-03T20:54:31Z",
             "owner": "jcjohnson",
             "repo": "fast-neural-style",
-            "stars": 4356
+            "stars": 4357
           }
         },
         {
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:31:27.226Z",
+    "last_updated": "2026-08-15T02:28:17.456Z",
     "original_repository": "alexsosn/iOS_ML",
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
