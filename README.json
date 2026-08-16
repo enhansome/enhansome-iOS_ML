@@ -57,7 +57,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34574
+            "stars": 34576
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2023-01-07T21:33:23Z",
             "owner": "karpathy",
             "repo": "convnetjs",
-            "stars": 11194
+            "stars": 11196
           }
         },
         {
@@ -208,10 +208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-15T02:12:20Z",
+                "last_commit": "2026-08-16T00:19:54Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197022
+                "stars": 197047
               }
             },
             {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28014
+            "stars": 28013
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28014
+            "stars": 28013
           }
         },
         {
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:28:17.456Z",
+    "last_updated": "2026-08-16T02:36:08.574Z",
     "original_repository": "alexsosn/iOS_ML",
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
