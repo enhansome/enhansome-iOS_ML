@@ -86,7 +86,7 @@
             "last_commit": "2023-01-07T21:33:23Z",
             "owner": "karpathy",
             "repo": "convnetjs",
-            "stars": 11197
+            "stars": 11196
           }
         },
         {
@@ -208,10 +208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-17T02:25:11Z",
+                "last_commit": "2026-08-18T02:30:35Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197087
+                "stars": 196991
               }
             },
             {
@@ -529,7 +529,7 @@
             "last_commit": "2020-12-24T19:45:09Z",
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3105
+            "stars": 3104
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28013
+            "stars": 28010
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28013
+            "stars": 28010
           }
         },
         {
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:35:26.875Z",
+    "last_updated": "2026-08-18T02:31:08.407Z",
     "original_repository": "alexsosn/iOS_ML",
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
