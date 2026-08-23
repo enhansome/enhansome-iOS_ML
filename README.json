@@ -15,7 +15,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20809
+            "stars": 20810
           }
         },
         {
@@ -386,10 +386,10 @@
                     "archived": false,
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-22T02:27:54Z",
+                    "last_commit": "2026-08-22T23:47:43Z",
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 197213
+                    "stars": 197330
                   }
                 },
                 {
@@ -597,7 +597,7 @@
                     "last_commit": "2024-05-01T01:24:41Z",
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
-                    "stars": 3275
+                    "stars": 3274
                   }
                 }
               ]
@@ -730,7 +730,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7735
+            "stars": 7736
           }
         },
         {
@@ -934,7 +934,7 @@
             "last_commit": "2020-09-02T20:34:54Z",
             "owner": "antimatter15",
             "repo": "ocrad.js",
-            "stars": 3518
+            "stars": 3517
           }
         },
         {
@@ -1185,7 +1185,7 @@
                 "last_commit": "2023-10-03T20:54:31Z",
                 "owner": "jcjohnson",
                 "repo": "fast-neural-style",
-                "stars": 4357
+                "stars": 4358
               }
             },
             {
@@ -1840,7 +1840,7 @@
                 "last_commit": "2026-03-07T05:36:26Z",
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28010
+                "stars": 28011
               }
             },
             {
@@ -1855,7 +1855,7 @@
                 "last_commit": "2026-03-07T05:36:26Z",
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28010
+                "stars": 28011
               }
             },
             {
@@ -2050,7 +2050,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74102
+            "stars": 74120
           }
         },
         {
@@ -2065,7 +2065,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70580
+            "stars": 70599
           }
         },
         {
@@ -2077,10 +2077,10 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-18T10:27:04Z",
+            "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29850
+            "stars": 29851
           }
         },
         {
@@ -2095,7 +2095,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23510
+            "stars": 23511
           }
         },
         {
@@ -2110,7 +2110,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9310
+            "stars": 9311
           }
         },
         {
@@ -2133,7 +2133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:29:26.982Z",
+    "last_updated": "2026-08-23T02:38:59.171Z",
     "original_repository": "alexsosn/iOS_ML",
     "original_repository_id": 40960931,
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
