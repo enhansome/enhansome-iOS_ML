@@ -30,7 +30,7 @@
             "last_commit": "2023-11-01T06:14:06Z",
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11159
+            "stars": 11158
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2017-05-03T22:01:09Z",
             "owner": "Swift-AI",
             "repo": "Swift-AI",
-            "stars": 6037
+            "stars": 6038
           }
         },
         {
@@ -431,10 +431,10 @@
                     "archived": false,
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-26T02:33:08Z",
+                    "last_commit": "2026-08-27T11:13:34Z",
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 197634
+                    "stars": 197720
                   }
                 },
                 {
@@ -775,7 +775,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7739
+            "stars": 7740
           }
         },
         {
@@ -1230,7 +1230,7 @@
                 "last_commit": "2023-10-03T20:54:31Z",
                 "owner": "jcjohnson",
                 "repo": "fast-neural-style",
-                "stars": 4357
+                "stars": 4359
               }
             },
             {
@@ -2180,10 +2180,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-24T19:57:48Z",
+            "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74155
+            "stars": 74176
           }
         },
         {
@@ -2198,7 +2198,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70666
+            "stars": 70691
           }
         },
         {
@@ -2210,10 +2210,10 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-22T06:20:28Z",
+            "last_commit": "2026-08-26T17:06:22Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29866
+            "stars": 29876
           }
         },
         {
@@ -2228,7 +2228,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23517
+            "stars": 23520
           }
         },
         {
@@ -2243,7 +2243,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9323
+            "stars": 9327
           }
         },
         {
@@ -2266,9 +2266,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:40:32.657Z",
-    "original_repository": "alexsosn/iOS_ML",
-    "original_repository_id": 40960931,
+    "last_updated": "2026-08-27T11:14:11.688Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40960931,
+      "language": null,
+      "last_commit": "2018-07-30T19:55:52Z",
+      "owner": "alexsosn",
+      "repo": "iOS_ML",
+      "stars": 1427
+    },
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
     "enhanced_repository_description": null,
