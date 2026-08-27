@@ -431,7 +431,7 @@
                     "archived": false,
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-27T11:13:34Z",
+                    "last_commit": "2026-08-27T11:44:05Z",
                     "owner": "tensorflow",
                     "repo": "tensorflow",
                     "stars": 197720
@@ -2183,7 +2183,7 @@
             "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74176
+            "stars": 74177
           }
         },
         {
@@ -2266,7 +2266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:14:11.688Z",
+    "last_updated": "2026-08-27T11:46:46.974Z",
     "original_repository_info": {
       "archived": false,
       "id": 40960931,
