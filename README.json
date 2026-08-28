@@ -16,7 +16,8 @@
             "owner": "apache",
             "repo": "mxnet",
             "stars": 20811
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "apple",
             "repo": "turicreate",
             "stars": 11158
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tf-coreml",
             "repo": "tf-coreml",
             "stars": 1328
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "prisma-ai",
             "repo": "torch2coreml",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         }
       ],
       "title": "Core ML"
@@ -82,7 +86,8 @@
             "owner": "harthur",
             "repo": "brain",
             "stars": 7988
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "Swift-AI",
             "repo": "Swift-AI",
             "stars": 6038
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "nikolaypavlov",
             "repo": "MLPNeuralNet",
             "stars": 899
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "devongovett",
             "repo": "SNNeuralNet",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Kalvar",
             "repo": "ios-BPN-NeuralNetwork",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "davecom",
             "repo": "SwiftSimpleNeuralNetwork",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Kalvar",
             "repo": "ios-Multi-Perceptron-NeuralNetwork",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Kalvar",
             "repo": "ios-KRDelta",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Kalvar",
             "repo": "ios-KRPerceptron",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         }
       ],
       "title": "General-Purpose Machine Learning Libraries"
@@ -230,7 +243,8 @@
                     "owner": "solrex",
                     "repo": "caffe-mobile",
                     "stars": 312
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -245,7 +259,8 @@
                     "owner": "craftzdog",
                     "repo": "caffe-ios-sample",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -260,7 +275,8 @@
                     "owner": "alejandro-isaza",
                     "repo": "caffe",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
@@ -271,7 +287,8 @@
                 "owner": "BVLC",
                 "repo": "caffe",
                 "stars": 34556
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -291,7 +308,8 @@
                     "owner": "alexsosn",
                     "repo": "ConvNetSwift",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
@@ -302,7 +320,8 @@
                 "owner": "karpathy",
                 "repo": "convnetjs",
                 "stars": 11197
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                     "owner": "tiny-dnn",
                     "repo": "tiny-dnn",
                     "stars": 6030
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
@@ -333,7 +353,8 @@
                 "owner": "tiny-dnn",
                 "repo": "tiny-dnn",
                 "stars": 6030
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -348,7 +369,8 @@
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
                 "stars": 2853
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -363,7 +385,8 @@
                 "owner": "alejandro-isaza",
                 "repo": "BrainCore",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -378,7 +401,8 @@
                 "owner": "jordenhill",
                 "repo": "Birdbrain",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "group",
@@ -398,7 +422,8 @@
                     "owner": "KleinYuan",
                     "repo": "Caffe2-iOS",
                     "stars": 225
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -413,7 +438,8 @@
                     "owner": "RobertBiehl",
                     "repo": "caffe2-ios",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             },
@@ -431,11 +457,12 @@
                     "archived": false,
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-27T11:44:05Z",
+                    "last_commit": "2026-08-28T12:53:40Z",
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 197720
-                  }
+                    "stars": 197762
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -450,7 +477,8 @@
                     "owner": "hollance",
                     "repo": "TensorFlow-iOS-Example",
                     "stars": 439
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -465,7 +493,8 @@
                     "owner": "PerfectlySoft",
                     "repo": "Perfect-TensorFlow",
                     "stars": 167
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             },
@@ -487,7 +516,8 @@
                     "owner": "clementfarabet",
                     "repo": "torch-ios",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -502,7 +532,8 @@
                     "owner": "jhondge",
                     "repo": "torch4ios",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             }
@@ -526,7 +557,8 @@
                 "owner": "xmartlabs",
                 "repo": "Bender",
                 "stars": 1802
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -541,7 +573,8 @@
                 "owner": "hollance",
                 "repo": "Forge",
                 "stars": 1264
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -556,7 +589,8 @@
                 "owner": "CAS-CLab",
                 "repo": "quantized-cnn",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -571,7 +605,8 @@
                 "owner": "codinfox",
                 "repo": "espresso",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -586,7 +621,8 @@
                 "owner": "kurtjacobsdev",
                 "repo": "torch2ios",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": "These libraries doesn't support training, so you need to pre-train models in some ML framework.",
@@ -608,7 +644,8 @@
                 "owner": "Maratyszcza",
                 "repo": "NNPACK",
                 "stars": 1710
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -623,7 +660,8 @@
                 "owner": "abeschneider",
                 "repo": "stem",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "group",
@@ -643,7 +681,8 @@
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
                     "stars": 3273
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             },
@@ -665,7 +704,8 @@
                     "owner": "kazoo-kmt",
                     "repo": "MPSCNNfeeder",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             }
@@ -689,7 +729,8 @@
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
                 "stars": 1274
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -704,7 +745,8 @@
                 "owner": "BenWhetton",
                 "repo": "keras-surgeon",
                 "stars": 407
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -719,7 +761,8 @@
                 "owner": "chengshengchan",
                 "repo": "model_compression",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -750,7 +793,8 @@
                 "owner": "FaceAR",
                 "repo": "OpenFaceIOS",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -765,7 +809,8 @@
                 "owner": "FaceAR",
                 "repo": "OpenFaceIOS",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "repo_info": {
@@ -776,7 +821,8 @@
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
             "stars": 7740
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "group",
@@ -796,7 +842,8 @@
                 "owner": "liuliu",
                 "repo": "klaus",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         },
@@ -818,7 +865,8 @@
                 "owner": "foundry",
                 "repo": "OpenCVSwiftStitch",
                 "stars": 952
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -833,7 +881,8 @@
                 "owner": "kurtjacobsdev",
                 "repo": "OpenCV-iOS-Demos",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         }
@@ -856,7 +905,8 @@
             "owner": "ayanonagon",
             "repo": "Parsimmon",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -871,7 +921,8 @@
             "owner": "VerbalExpressions",
             "repo": "SwiftVerbalExpressions",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -885,8 +936,9 @@
             "last_commit": "2014-12-13T16:45:34Z",
             "owner": "twitter-archive",
             "repo": "twitter-text-objc",
-            "stars": 584
-          }
+            "stars": 583
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -901,7 +953,8 @@
             "owner": "rxwei",
             "repo": "GloVe-swift",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         }
       ],
       "title": "Natural Language Processing"
@@ -922,7 +975,8 @@
             "owner": "vimalmurugan89",
             "repo": "MVSpeechSynthesizer",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -937,7 +991,8 @@
             "owner": "tryolabs",
             "repo": "TLSphinx",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "group",
@@ -957,7 +1012,8 @@
                 "owner": "keenresearch",
                 "repo": "keenasr-ios-poc",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         }
@@ -980,7 +1036,8 @@
             "owner": "antimatter15",
             "repo": "ocrad.js",
             "stars": 3517
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "group",
@@ -1000,7 +1057,8 @@
                 "owner": "gali8",
                 "repo": "Tesseract-OCR-iOS",
                 "stars": 4221
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1015,7 +1073,8 @@
                 "owner": "ldiqual",
                 "repo": "tesseract-ios",
                 "stars": 580
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1030,7 +1089,8 @@
                 "owner": "ldiqual",
                 "repo": "tesseract-ios-lib",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1105,8 @@
                 "owner": "robmathews",
                 "repo": "OCR-iOS-Example",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         }
@@ -1068,7 +1129,8 @@
             "owner": "mdiep",
             "repo": "Logician",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1145,8 @@
             "owner": "hollance",
             "repo": "BuildYourOwnLispInSwift",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1161,8 @@
             "owner": "JadenGeller",
             "repo": "Axiomatic",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1177,8 @@
             "owner": "JadenGeller",
             "repo": "Swiftlog",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         }
       ],
       "title": "Other AI"
@@ -1134,7 +1199,8 @@
             "owner": "cloudsight",
             "repo": "cloudsight-objc",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "group",
@@ -1154,7 +1220,8 @@
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-ios",
                 "stars": 1705
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         },
@@ -1176,7 +1243,8 @@
                 "owner": "minhtule",
                 "repo": "PredictionIO-Swift-SDK",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1259,8 @@
                 "owner": "minhtule",
                 "repo": "Tapster-iOS-Demo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1275,8 @@
                 "owner": "minhtule",
                 "repo": "Tapster-iOS-Demo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         }
@@ -1231,7 +1301,8 @@
                 "owner": "jcjohnson",
                 "repo": "fast-neural-style",
                 "stars": 4359
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1246,7 +1317,8 @@
                 "owner": "cysmith",
                 "repo": "neural-style-tf",
                 "stars": 3104
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1261,7 +1333,8 @@
                 "owner": "DmitryUlyanov",
                 "repo": "texture_nets",
                 "stars": 1225
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1276,7 +1349,8 @@
                 "owner": "hollance",
                 "repo": "VGGNet-Metal",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1291,7 +1365,8 @@
                 "owner": "pppoe",
                 "repo": "WhatsThis-iOS",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1306,7 +1381,8 @@
                 "owner": "s1ddok",
                 "repo": "HED-CoreML",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1321,7 +1397,8 @@
                 "owner": "naman14",
                 "repo": "Arcade",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1336,7 +1413,8 @@
                 "owner": "yjmade",
                 "repo": "ios_camera_object_detection",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1429,8 @@
                 "owner": "paiv",
                 "repo": "mnist-bnns",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1445,8 @@
                 "owner": "hollance",
                 "repo": "BNNS-vs-MPSCNN",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1461,8 @@
                 "owner": "mattrajca",
                 "repo": "MNIST",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1477,8 @@
                 "owner": "krasin",
                 "repo": "MetalDetector",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1411,7 +1493,8 @@
                 "owner": "hollance",
                 "repo": "RNN-Drummer-Swift",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1426,7 +1509,8 @@
                 "owner": "waitingcheung",
                 "repo": "deep-sudoku-solver",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1441,7 +1525,8 @@
                 "owner": "IDLabs-Gate",
                 "repo": "enVision",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1541,8 @@
                 "owner": "johndpope",
                 "repo": "deepdreamer",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1471,7 +1557,8 @@
                 "owner": "johndpope",
                 "repo": "DeepDreamApp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1486,7 +1573,8 @@
                 "owner": "jmolayem",
                 "repo": "corrosionapp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1507,8 +1595,9 @@
                 "last_commit": "2020-12-13T08:49:55Z",
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4632
-              }
+                "stars": 4631
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1523,7 +1612,8 @@
                 "owner": "naver",
                 "repo": "grabcutios",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1545,7 +1635,8 @@
                 "owner": "craigomac",
                 "repo": "InfiniteMonkeys",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1567,7 +1658,8 @@
                 "owner": "BilalReffas",
                 "repo": "EmojiIntelligence",
                 "stars": 1427
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1595,7 +1687,8 @@
                 "owner": "stsievert",
                 "repo": "swix",
                 "stars": 586
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1703,8 @@
                 "owner": "alejandro-isaza",
                 "repo": "Upsurge",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1625,7 +1719,8 @@
                 "owner": "hyperjeff",
                 "repo": "Accelerate-in-Swift",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1735,8 @@
                 "owner": "hollance",
                 "repo": "Matrix",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1751,8 @@
                 "owner": "rxwei",
                 "repo": "cuda-swift",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1670,7 +1767,8 @@
                 "owner": "yconst",
                 "repo": "YCMatrix",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1685,7 +1783,8 @@
                 "owner": "rugheid",
                 "repo": "Swift-MathEagle",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1700,7 +1799,8 @@
                 "owner": "JadenGeller",
                 "repo": "Dimensional",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1715,7 +1815,8 @@
                 "owner": "mattt",
                 "repo": "Surge",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1730,7 +1831,8 @@
                 "owner": "t-ae",
                 "repo": "ndarray",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1745,7 +1847,8 @@
                 "owner": "donald-pinckney",
                 "repo": "SwiftNum",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1767,7 +1870,8 @@
                 "owner": "evgenyneu",
                 "repo": "SigmaSwiftStatistics",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1782,7 +1886,8 @@
                 "owner": "SebastianOsinski",
                 "repo": "SORandom",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1797,7 +1902,8 @@
                 "owner": "aidangomez",
                 "repo": "RandKit",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1819,7 +1925,8 @@
                 "owner": "chokkan",
                 "repo": "liblbfgs",
                 "stars": 599
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1834,7 +1941,8 @@
                 "owner": "haginile",
                 "repo": "SwiftOptimizer",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1849,7 +1957,8 @@
                 "owner": "gautambhatrcb",
                 "repo": "fmincg-c",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1871,7 +1980,8 @@
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +1996,8 @@
                 "owner": "hfink",
                 "repo": "matchbox",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -1908,7 +2019,8 @@
                 "owner": "ChartsOrg",
                 "repo": "Charts",
                 "stars": 28014
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1923,7 +2035,8 @@
                 "owner": "ChartsOrg",
                 "repo": "Charts",
                 "stars": 28014
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1938,7 +2051,8 @@
                 "owner": "core-plot",
                 "repo": "core-plot",
                 "stars": 2762
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1953,7 +2067,8 @@
                 "owner": "v5tech",
                 "repo": "awesome-ios-chart",
                 "stars": 1517
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1968,7 +2083,8 @@
                 "owner": "kubatruhlar",
                 "repo": "JTChartView",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             },
             {
               "node_type": "item",
@@ -1983,7 +2099,8 @@
                 "owner": "lee-leonardo",
                 "repo": "iOS-D3",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -2005,7 +2122,8 @@
                 "owner": "Lizhen0909",
                 "repo": "iBio",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -2027,7 +2145,8 @@
                 "owner": "alejandro-isaza",
                 "repo": "HDF5Kit",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -2049,7 +2168,8 @@
                 "owner": "KelvinJin",
                 "repo": "iSwift",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "description": null,
@@ -2080,7 +2200,8 @@
                 "owner": "Ciechan",
                 "repo": "Exploring-GPGPU-on-iOS",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ]
         },
@@ -2104,7 +2225,8 @@
                     "owner": "FlexMonkey",
                     "repo": "ParticleLab",
                     "stars": 500
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -2119,7 +2241,8 @@
                     "owner": "FlexMonkey",
                     "repo": "MetalReactionDiffusion",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             },
@@ -2141,7 +2264,8 @@
                     "owner": "memkite",
                     "repo": "MetalForTVOS",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 },
                 {
                   "node_type": "item",
@@ -2156,7 +2280,8 @@
                     "owner": "memkite",
                     "repo": "SwiftMetalGPUParallelProcessing",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ]
             }
@@ -2180,11 +2305,12 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
-          }
+            "stars": 74194
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -2198,8 +2324,9 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70691
-          }
+            "stars": 70709
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -2210,11 +2337,12 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-26T17:06:22Z",
+            "last_commit": "2026-08-27T15:40:38Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29876
-          }
+            "stars": 29883
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -2229,7 +2357,8 @@
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
             "stars": 23520
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -2243,8 +2372,9 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9327
-          }
+            "stars": 9328
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         },
         {
           "node_type": "item",
@@ -2259,14 +2389,15 @@
             "owner": "edobashira",
             "repo": "speech-language-processing",
             "stars": 2225
-          }
+          },
+          "first_seen": "2026-08-28T12:57:54.609Z"
         }
       ],
       "title": "Other Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:46.974Z",
+    "last_updated": "2026-08-28T12:57:54.609Z",
     "original_repository_info": {
       "archived": false,
       "id": 40960931,
