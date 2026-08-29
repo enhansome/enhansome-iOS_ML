@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+            "homepage": "https://mxnet.apache.org",
             "id": 34864402,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-25T21:28:33Z",
+            "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811
+            "stars": 20811,
+            "topics": [
+              "mxnet"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -26,12 +33,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turi Create simplifies the development of custom machine learning models.",
+            "homepage": null,
             "id": 112676803,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-11-01T06:14:06Z",
+            "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11158
+            "stars": 11158,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow to CoreML Converter",
+            "homepage": null,
             "id": 106602694,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-01T16:48:19Z",
+            "open_issues": 65,
             "owner": "tf-coreml",
             "repo": "tf-coreml",
-            "stars": 1328
+            "stars": 1328,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -58,12 +79,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Torch7 -> CoreML",
+            "homepage": null,
             "id": 100525727,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-12-04T21:37:19Z",
+            "open_issues": 13,
             "owner": "prisma-ai",
             "repo": "torch2coreml",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "ai",
+              "coreml",
+              "deep-learning",
+              "ios",
+              "ios11",
+              "neural-style",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         }
@@ -80,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple feed-forward neural network in JavaScript",
+            "homepage": null,
             "id": 658594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-03T20:20:29Z",
+            "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7988
+            "stars": 7988,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -96,12 +135,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Swift machine learning library.",
+            "homepage": null,
             "id": 46527265,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-05-03T22:01:09Z",
+            "open_issues": 13,
             "owner": "Swift-AI",
             "repo": "Swift-AI",
-            "stars": 6038
+            "stars": 6038,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "ios",
+              "machine-learning",
+              "macos",
+              "ocr",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -112,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast multilayer perceptron neural network library for iOS and Mac OS X",
+            "homepage": null,
             "id": 13090545,
             "language": "Objective-C",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-09-30T11:52:51Z",
+            "open_issues": 1,
             "owner": "nikolaypavlov",
             "repo": "MLPNeuralNet",
-            "stars": 899
+            "stars": 899,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -128,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A neural network library for Objective-C",
+            "homepage": null,
             "id": 14851963,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2013-12-05T21:43:55Z",
+            "open_issues": 0,
             "owner": "devongovett",
             "repo": "SNNeuralNet",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -144,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural network (ニューラルネットワーク) on Machine Learning (マシンラーニング).",
+            "homepage": null,
             "id": 10628575,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-15T08:06:33Z",
+            "open_issues": 0,
             "owner": "Kalvar",
             "repo": "ios-BPN-NeuralNetwork",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -160,12 +227,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple multi-layer feed-forward neural network with backpropagation built in Swift.",
+            "homepage": null,
             "id": 62373086,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-17T09:45:55Z",
+            "open_issues": 0,
             "owner": "davecom",
             "repo": "SwiftSimpleNeuralNetwork",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "backpropagation",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -176,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLP of Deep Learning. (マシンラーニング).",
+            "homepage": null,
             "id": 31252990,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-22T15:18:11Z",
+            "open_issues": 0,
             "owner": "Kalvar",
             "repo": "ios-Multi-Perceptron-NeuralNetwork",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -192,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning algorithm named Delta learning method.",
+            "homepage": null,
             "id": 46992703,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-06T16:32:00Z",
+            "open_issues": 0,
             "owner": "Kalvar",
             "repo": "ios-KRDelta",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -208,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Non-linear and linear perceptron model of machine learning.",
+            "homepage": null,
             "id": 45624620,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-07T18:36:59Z",
+            "open_issues": 0,
             "owner": "Kalvar",
             "repo": "ios-KRPerceptron",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         }
@@ -237,12 +327,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Optimized (for size and speed) Caffe lib for iOS and Android with out-of-the-box demo APP.",
+                    "homepage": null,
                     "id": 80809550,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-08-07T07:01:16Z",
+                    "open_issues": 11,
                     "owner": "solrex",
                     "repo": "caffe-mobile",
-                    "stars": 312
+                    "stars": 312,
+                    "topics": [
+                      "android",
+                      "app",
+                      "caffe",
+                      "cnn",
+                      "deep-learning",
+                      "dnn",
+                      "ios",
+                      "mobile-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -253,12 +357,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An example of XCode project using Caffe: a fast open framework for deep learning",
+                    "homepage": null,
                     "id": 39250640,
                     "language": "Objective-C++",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2016-01-04T11:05:07Z",
+                    "open_issues": 0,
                     "owner": "craftzdog",
                     "repo": "caffe-ios-sample",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -269,24 +378,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe: a fast open framework for deep learning, iOS version",
+                    "homepage": "http://caffe.berkeleyvision.org/",
                     "id": 37491292,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-01-31T19:01:42Z",
+                    "open_issues": 1,
                     "owner": "alejandro-isaza",
                     "repo": "caffe",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 12791642,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-31T23:10:28Z",
+                "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556
+                "stars": 34557,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -302,24 +425,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swift port of ConvnetJS. [Work in progress]",
+                    "homepage": null,
                     "id": 45805790,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2017-03-10T18:21:19Z",
+                    "open_issues": 1,
                     "owner": "alexsosn",
                     "repo": "ConvNetSwift",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "convnetjs",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "deep-q-network",
+                      "deep-reinforcement-learning",
+                      "machine-learning",
+                      "swift-port"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+                "homepage": null,
                 "id": 15642233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T21:33:23Z",
+                "open_issues": 75,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11197
+                "stars": 11197,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -335,24 +476,44 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "header only, dependency-free deep learning framework in C++14",
+                    "homepage": "http://tiny-dnn.readthedocs.io",
                     "id": 7205740,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-04-17T02:48:05Z",
+                    "open_issues": 297,
                     "owner": "tiny-dnn",
                     "repo": "tiny-dnn",
-                    "stars": 6030
+                    "stars": 6030,
+                    "topics": [
+                      "c-plus-plus",
+                      "deep-learning",
+                      "machine-learning",
+                      "neural-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "header only, dependency-free deep learning framework in C++14",
+                "homepage": "http://tiny-dnn.readthedocs.io",
                 "id": 7205740,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-17T02:48:05Z",
+                "open_issues": 297,
                 "owner": "tiny-dnn",
                 "repo": "tiny-dnn",
-                "stars": 6030
+                "stars": 6030,
+                "topics": [
+                  "c-plus-plus",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -363,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SDK for Jetpac's iOS Deep Belief image recognition framework",
+                "homepage": null,
                 "id": 18384763,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-06T19:25:12Z",
+                "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2853
+                "stars": 2853,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -379,12 +545,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The iOS and OS X neural network framework",
+                "homepage": null,
                 "id": 44200363,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-03-11T19:56:30Z",
+                "open_issues": 6,
                 "owner": "alejandro-isaza",
                 "repo": "BrainCore",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "ios",
+                  "machine-learning",
+                  "metal",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -395,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neural network framework written in Swift.",
+                "homepage": null,
                 "id": 44423039,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-03-05T20:49:11Z",
+                "open_issues": 3,
                 "owner": "jordenhill",
                 "repo": "Birdbrain",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -416,12 +597,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.",
+                    "homepage": null,
                     "id": 89675028,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2017-08-27T22:55:04Z",
+                    "open_issues": 5,
                     "owner": "KleinYuan",
                     "repo": "Caffe2-iOS",
-                    "stars": 225
+                    "stars": 225,
+                    "topics": [
+                      "ai",
+                      "caffe",
+                      "caffe2",
+                      "caffe2-ios",
+                      "classification",
+                      "deep-learning",
+                      "deep-learning-mobile",
+                      "deep-neural-networks",
+                      "demo",
+                      "ios",
+                      "object-detection",
+                      "objective-c",
+                      "opencv",
+                      "real-time",
+                      "swift",
+                      "swift3",
+                      "tiny-yolo",
+                      "tutorial",
+                      "upload-images",
+                      "yolo"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -432,12 +639,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "☕️ Caffe2Kit. A simple one step integration of Caffe2 for iOS.",
+                    "homepage": null,
                     "id": 88972627,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-10-01T15:43:21Z",
+                    "open_issues": 4,
                     "owner": "RobertBiehl",
                     "repo": "caffe2-ios",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "caffe2",
+                      "cocoapods-specs",
+                      "deep-learning",
+                      "deep-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -455,12 +674,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Open Source Machine Learning Framework for Everyone",
+                    "homepage": "https://tensorflow.org",
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-28T12:53:40Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:26:06Z",
+                    "open_issues": 2960,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 197762
+                    "stars": 197768,
+                    "topics": [
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "distributed",
+                      "machine-learning",
+                      "ml",
+                      "neural-network",
+                      "python",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -471,12 +704,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for my blog post \"Getting started with TensorFlow on iOS\"",
+                    "homepage": null,
                     "id": 83991662,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2017-03-06T14:23:21Z",
+                    "open_issues": 8,
                     "owner": "hollance",
                     "repo": "TensorFlow-iOS-Example",
-                    "stars": 439
+                    "stars": 439,
+                    "topics": [
+                      "ios",
+                      "logistic-regression",
+                      "machine-learning",
+                      "metal",
+                      "tensorflow",
+                      "voice-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -487,12 +732,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow C API Class Wrapper in Server Side Swift.",
+                    "homepage": null,
                     "id": 94277830,
                     "language": "Swift",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-07-07T21:00:46Z",
+                    "open_issues": 0,
                     "owner": "PerfectlySoft",
                     "repo": "Perfect-TensorFlow",
-                    "stars": 167
+                    "stars": 167,
+                    "topics": [
+                      "artificial-intelligence",
+                      "artificial-neural-networks",
+                      "deep-learning",
+                      "machine-learning",
+                      "matrix-library",
+                      "perfect",
+                      "swift",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -510,12 +769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Torch7 for iOS.",
+                    "homepage": null,
                     "id": 4094018,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-01-11T21:57:03Z",
+                    "open_issues": 17,
                     "owner": "clementfarabet",
                     "repo": "torch-ios",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -526,12 +790,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Torch7 Library for iOS",
+                    "homepage": null,
                     "id": 70774067,
                     "language": "CMake",
+                    "license": null,
                     "last_commit": "2017-01-19T05:43:44Z",
+                    "open_issues": 2,
                     "owner": "jhondge",
                     "repo": "torch4ios",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -551,12 +820,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.",
+                "homepage": "https://xmartlabs.github.io/Bender/",
                 "id": 90192362,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-11-07T10:28:36Z",
+                "open_issues": 18,
                 "owner": "xmartlabs",
                 "repo": "Bender",
-                "stars": 1802
+                "stars": 1802,
+                "topics": [
+                  "apple",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "ios",
+                  "iphone",
+                  "machine-learning",
+                  "metal",
+                  "neural-networks",
+                  "residual-networks",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -567,12 +853,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neural network toolkit for Metal",
+                "homepage": null,
                 "id": 89166635,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-05-18T20:25:35Z",
+                "open_issues": 3,
                 "owner": "hollance",
                 "repo": "Forge",
-                "stars": 1264
+                "stars": 1264,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "ios",
+                  "machine-learning",
+                  "metal",
+                  "mobilenets",
+                  "neural-network",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -583,12 +883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An efficient framework for convolutional neural networks",
+                "homepage": null,
                 "id": 54620562,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-08-30T06:23:06Z",
+                "open_issues": 3,
                 "owner": "CAS-CLab",
                 "repo": "quantized-cnn",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -599,12 +904,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal high performance parallel neural network framework running on iOS",
+                "homepage": "http://codinfox.github.io/espresso/",
                 "id": 54933609,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-05-23T02:16:21Z",
+                "open_issues": 0,
                 "owner": "codinfox",
                 "repo": "espresso",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -615,12 +925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Torch7 Library - Convert NN Models To iOS Format",
+                "homepage": null,
                 "id": 63416500,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2016-08-08T09:49:13Z",
+                "open_issues": 0,
                 "owner": "kurtjacobsdev",
                 "repo": "torch2ios",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -638,12 +953,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Acceleration package for neural networks on multi-core CPUs",
+                "homepage": null,
                 "id": 54410262,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-06-11T14:51:27Z",
+                "open_issues": 49,
                 "owner": "Maratyszcza",
                 "repo": "NNPACK",
-                "stars": 1710
+                "stars": 1710,
+                "topics": [
+                  "convolutional-layers",
+                  "cpu",
+                  "fast-fourier-transform",
+                  "high-performance",
+                  "high-performance-computing",
+                  "inference",
+                  "matrix-multiplication",
+                  "multithreading",
+                  "neural-network",
+                  "neural-networks",
+                  "simd",
+                  "winograd-transform"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -654,12 +987,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift Tensor Extensions for Machine-learning",
+                "homepage": null,
                 "id": 46250480,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-01-26T12:58:06Z",
+                "open_issues": 0,
                 "owner": "abeschneider",
                 "repo": "stem",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "deep-learning",
+                  "gradient-descent",
+                  "machine-learning",
+                  "matrix",
+                  "optimization",
+                  "swift",
+                  "swift-library",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -675,12 +1022,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code examples for new APIs of iOS 10.",
+                    "homepage": null,
                     "id": 67268845,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2024-05-01T01:24:41Z",
+                    "open_issues": 4,
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
-                    "stars": 3273
+                    "stars": 3273,
+                    "topics": [
+                      "cnn",
+                      "convolutional-neural-networks",
+                      "demo",
+                      "image-recognition",
+                      "ios",
+                      "ios10",
+                      "metal",
+                      "metal-cnn",
+                      "metal-performance-shaders",
+                      "speech",
+                      "swift-3",
+                      "swift-4",
+                      "uiviewpropertyanimator"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -698,12 +1064,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 76803883,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2017-01-27T05:53:01Z",
+                    "open_issues": 0,
                     "owner": "kazoo-kmt",
                     "repo": "MPSCNNfeeder",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -723,12 +1094,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe Implementation of Google's MobileNets (v1 and v2)",
+                "homepage": null,
                 "id": 89568797,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-06-08T06:28:43Z",
+                "open_issues": 48,
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
-                "stars": 1274
+                "stars": 1274,
+                "topics": [
+                  "caffe",
+                  "imagenet",
+                  "mobilenet",
+                  "mobilenetv2",
+                  "mobilnet-v2"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -739,12 +1121,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pruning and other network surgery for trained Keras models.",
+                "homepage": null,
                 "id": 101084892,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-05T17:46:35Z",
+                "open_issues": 40,
                 "owner": "BenWhetton",
                 "repo": "keras-surgeon",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "deep-learning",
+                  "keras",
+                  "network-surgery",
+                  "pruning"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -755,12 +1147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of model compression with knowledge distilling method. ",
+                "homepage": null,
                 "id": 75897933,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-01-03T04:03:20Z",
+                "open_issues": 3,
                 "owner": "chengshengchan",
                 "repo": "model_compression",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -787,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB,Boost. Only use OpenCV .",
+                "homepage": null,
                 "id": 63400057,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2017-05-18T09:08:28Z",
+                "open_issues": 2,
                 "owner": "FaceAR",
                 "repo": "OpenFaceIOS",
-                "stars": 507
+                "stars": 507,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -803,24 +1205,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB,Boost. Only use OpenCV .",
+                "homepage": null,
                 "id": 63400057,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2017-05-18T09:08:28Z",
+                "open_issues": 2,
                 "owner": "FaceAR",
                 "repo": "OpenFaceIOS",
-                "stars": 507
+                "stars": 507,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
+            "homepage": null,
             "id": 53220938,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-01T00:44:07Z",
+            "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7740
+            "stars": 7741,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -836,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A show-case of a state-of-the-art image classifier on iOS devices from libccv.org",
+                "homepage": null,
                 "id": 22712740,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2014-10-31T23:06:17Z",
+                "open_issues": 1,
                 "owner": "liuliu",
                 "repo": "klaus",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -859,12 +1276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Version 6 of OpenCVStitch. How to stitch images using OpenCV on iOS. This version demonstrates using Swift and C++ together in one project - avoiding the Objective-C wrapper that was needed prior to Swift v5.9.",
+                "homepage": null,
                 "id": 20493420,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T17:05:52Z",
+                "open_issues": 1,
                 "owner": "foundry",
                 "repo": "OpenCVSwiftStitch",
-                "stars": 952
+                "stars": 952,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -875,12 +1297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of OpenCV Samples",
+                "homepage": null,
                 "id": 56982058,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-04-24T16:50:32Z",
+                "open_issues": 1,
                 "owner": "kurtjacobsdev",
                 "repo": "OpenCV-iOS-Demos",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -899,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsimmon is a wee linguistics toolkit for iOS written in Swift.",
+            "homepage": null,
             "id": 13490419,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-03-09T13:08:46Z",
+            "open_issues": 8,
             "owner": "ayanonagon",
             "repo": "Parsimmon",
-            "stars": 707
+            "stars": 707,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -915,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift Port of VerbalExpressions",
+            "homepage": null,
             "id": 20684001,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-04-08T19:50:12Z",
+            "open_issues": 2,
             "owner": "VerbalExpressions",
             "repo": "SwiftVerbalExpressions",
-            "stars": 593
+            "stars": 593,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -931,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Objective-C implementation of Twitter's text processing library",
+            "homepage": null,
             "id": 4252921,
             "language": null,
+            "license": null,
             "last_commit": "2014-12-13T16:45:34Z",
+            "open_issues": 3,
             "owner": "twitter-archive",
             "repo": "twitter-text-objc",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -947,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Global Vectors for Word Representation (Swift package)",
+            "homepage": "http://nlp.stanford.edu/projects/glove/",
             "id": 74925512,
             "language": "C",
+            "license": null,
             "last_commit": "2016-11-28T01:21:25Z",
+            "open_issues": 0,
             "owner": "rxwei",
             "repo": "GloVe-swift",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         }
@@ -969,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effective way of using AVSpeechSynthesizer",
+            "homepage": null,
             "id": 18283986,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2014-04-04T05:49:36Z",
+            "open_issues": 5,
             "owner": "vimalmurugan89",
             "repo": "MVSpeechSynthesizer",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -985,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift wrapper around Pocketsphinx",
+            "homepage": null,
             "id": 36036379,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-05-06T12:20:14Z",
+            "open_issues": 22,
             "owner": "tryolabs",
             "repo": "TLSphinx",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1006,12 +1463,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept app that demonstrates use of KeenASR SDK in ObjC. WE ARE HIRING: https://keenresearch.com/careers.html",
+                "homepage": null,
                 "id": 26989645,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2026-06-30T14:48:12Z",
+                "open_issues": 0,
                 "owner": "keenresearch",
                 "repo": "keenasr-ios-poc",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "speech",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "voice-commands",
+                  "voice-control",
+                  "voice-recognition"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1030,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCR in Javascript via Emscripten",
+            "homepage": "http://antimatter15.github.io/ocrad.js/demo.html",
             "id": 15534164,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-02T20:34:54Z",
+            "open_issues": 28,
             "owner": "antimatter15",
             "repo": "ocrad.js",
-            "stars": 3517
+            "stars": 3517,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1051,12 +1525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.",
+                "homepage": "http://www.nexor.it",
                 "id": 9769041,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-05-03T20:04:54Z",
+                "open_issues": 120,
                 "owner": "gali8",
                 "repo": "Tesseract-OCR-iOS",
-                "stars": 4221
+                "stars": 4221,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1067,12 +1546,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tesseract OCR for iOS",
+                "homepage": null,
                 "id": 5927407,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2014-11-28T22:32:46Z",
+                "open_issues": 0,
                 "owner": "ldiqual",
                 "repo": "tesseract-ios",
-                "stars": 580
+                "stars": 580,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1083,12 +1567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesseract and Leptonica libraries compiled for iOS.",
+                "homepage": null,
                 "id": 5926840,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2012-10-10T16:28:54Z",
+                "open_issues": 2,
                 "owner": "ldiqual",
                 "repo": "tesseract-ios-lib",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1099,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR using tesseract 3.02 for iOS7",
+                "homepage": null,
                 "id": 15618348,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2014-01-03T20:54:13Z",
+                "open_issues": 0,
                 "owner": "robmathews",
                 "repo": "OCR-iOS-Example",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1123,12 +1617,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logic programming in Swift",
+            "homepage": null,
             "id": 67143428,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-05-17T07:04:35Z",
+            "open_issues": 6,
             "owner": "mdiep",
             "repo": "Logician",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "constraints",
+              "kanren",
+              "logic-programming",
+              "solver",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1139,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple LISP interpreter written in Swift",
+            "homepage": null,
             "id": 47352674,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-14T20:32:37Z",
+            "open_issues": 0,
             "owner": "hollance",
             "repo": "BuildYourOwnLispInSwift",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1155,12 +1665,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Swift unification framework for logic programming",
+            "homepage": "http://jadengeller.github.io/Axiomatic/index.html",
             "id": 46960481,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-05-24T14:12:55Z",
+            "open_issues": 0,
             "owner": "JadenGeller",
             "repo": "Axiomatic",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1171,12 +1686,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple Prolog-like language implemented entirely in Swift",
+            "homepage": null,
             "id": 49941861,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2016-02-16T23:48:39Z",
+            "open_issues": 0,
             "owner": "JadenGeller",
             "repo": "Swiftlog",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         }
@@ -1193,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudSight API library for Objective-C",
+            "homepage": null,
             "id": 37500229,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-03-19T03:27:32Z",
+            "open_issues": 0,
             "owner": "cloudsight",
             "repo": "cloudsight-objc",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -1214,12 +1739,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AWS SDK for iOS. For more information, see our web site:",
+                "homepage": "https://aws-amplify.github.io/docs",
                 "id": 20738855,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T16:03:23Z",
+                "open_issues": 49,
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-ios",
-                "stars": 1705
+                "stars": 1705,
+                "topics": [
+                  "amazon-web-services",
+                  "aws-mobile",
+                  "aws-sdk",
+                  "aws-sdk-ios",
+                  "objective-c",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1237,12 +1774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PredictionIO iOS / macOS SDK",
+                "homepage": "https://minhtule.github.io/PredictionIO-Swift-SDK",
                 "id": 40351240,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-22T01:11:06Z",
+                "open_issues": 1,
                 "owner": "minhtule",
                 "repo": "PredictionIO-Swift-SDK",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1253,12 +1795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspired by the Tapster Demo in Ruby https://github.com/PredictionIO/Demo-Tapster",
+                "homepage": null,
                 "id": 34261850,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-07-22T01:11:35Z",
+                "open_issues": 1,
                 "owner": "minhtule",
                 "repo": "Tapster-iOS-Demo",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1269,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspired by the Tapster Demo in Ruby https://github.com/PredictionIO/Demo-Tapster",
+                "homepage": null,
                 "id": 34261850,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-07-22T01:11:35Z",
+                "open_issues": 1,
                 "owner": "minhtule",
                 "repo": "Tapster-iOS-Demo",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1295,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feedforward style transfer",
+                "homepage": null,
                 "id": 69932235,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-10-03T20:54:31Z",
+                "open_issues": 136,
                 "owner": "jcjohnson",
                 "repo": "fast-neural-style",
-                "stars": 4359
+                "stars": 4359,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1311,12 +1868,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow (Python API) implementation of Neural Style",
+                "homepage": null,
                 "id": 70356386,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-24T19:45:09Z",
+                "open_issues": 68,
                 "owner": "cysmith",
                 "repo": "neural-style-tf",
-                "stars": 3104
+                "stars": 3104,
+                "topics": [
+                  "convolutional-neural-network",
+                  "deep-learning",
+                  "style-transfer",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1327,12 +1894,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Texture Networks: Feed-forward Synthesis of Textures and Stylized Images\" paper.",
+                "homepage": null,
                 "id": 53321801,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2018-01-07T06:56:34Z",
+                "open_issues": 42,
                 "owner": "DmitryUlyanov",
                 "repo": "texture_nets",
-                "stars": 1225
+                "stars": 1225,
+                "topics": [
+                  "neural-style",
+                  "style-transfer",
+                  "texture-networks",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1343,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iPhone version of the VGGNet convolutional neural network for image recognition",
+                "homepage": null,
                 "id": 66838354,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-04-10T10:19:20Z",
+                "open_issues": 3,
                 "owner": "hollance",
                 "repo": "VGGNet-Metal",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1359,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MXNet WhatThis Example for iOS",
+                "homepage": null,
                 "id": 50271536,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2016-03-26T02:37:27Z",
+                "open_issues": 6,
                 "owner": "pppoe",
                 "repo": "WhatsThis-iOS",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1375,12 +1962,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Holistically-Nested Edge Detection (HED) using CoreML and Swift",
+                "homepage": null,
                 "id": 96109962,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-07-03T12:58:38Z",
+                "open_issues": 0,
                 "owner": "s1ddok",
                 "repo": "HED-CoreML",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "caffe",
+                  "coreml",
+                  "hed",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1391,12 +1988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural style in Android",
+                "homepage": null,
                 "id": 58270563,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-11-02T18:29:36Z",
+                "open_issues": 4,
                 "owner": "naman14",
                 "repo": "Arcade",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1407,12 +2009,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realtime mobile visualize based  Object Detection based on TensorFlow and YOLO model",
+                "homepage": null,
                 "id": 64067456,
                 "language": "Objective-C++",
+                "license": null,
                 "last_commit": "2017-06-10T13:32:30Z",
+                "open_issues": 6,
                 "owner": "yjmade",
                 "repo": "ios_camera_object_detection",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "ios",
+                  "object-detection",
+                  "tensorflow",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1423,12 +2035,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Take MNIST TensorFlow deep neural network, run on iOS BNNS",
+                "homepage": "https://paiv.github.io/blog/2016/09/25/tensorflow-to-bnns.html",
                 "id": 69163352,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-10-18T20:34:37Z",
+                "open_issues": 0,
                 "owner": "paiv",
                 "repo": "mnist-bnns",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "bnns",
+                  "ios",
+                  "neural-networks",
+                  "swift",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1439,12 +2062,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compares the speed of Apple's two deep learning frameworks: BNNS and Metal Performance Shaders",
+                "homepage": null,
                 "id": 81222926,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-02-07T15:28:18Z",
+                "open_issues": 0,
                 "owner": "hollance",
                 "repo": "BNNS-vs-MPSCNN",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "accelerate",
+                  "deep-learning",
+                  "ios",
+                  "metal",
+                  "neural-network"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1455,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Getting Started with Deep MNIST and TensorFlow on iOS",
+                "homepage": "http://www.mattrajca.com/2016/11/25/getting-started-with-deep-mnist-and-tensorflow-on-ios.html",
                 "id": 74780017,
                 "language": "Objective-C++",
+                "license": "MIT",
                 "last_commit": "2016-11-28T17:36:41Z",
+                "open_issues": 0,
                 "owner": "mattrajca",
                 "repo": "MNIST",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1471,12 +2110,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GoogLeNet on iOS demo",
+                "homepage": null,
                 "id": 45224411,
                 "language": "Metal",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-11-03T20:50:44Z",
+                "open_issues": 0,
                 "owner": "krasin",
                 "repo": "MetalDetector",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1487,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using a recurrent neural network to teach the iPhone to play drums",
+                "homepage": null,
                 "id": 86796461,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-29T14:09:23Z",
+                "open_issues": 0,
                 "owner": "hollance",
                 "repo": "RNN-Drummer-Swift",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1503,12 +2152,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Sudoku Solver that leverages TensorFlow and iOS BNNS for deep learning.",
+                "homepage": null,
                 "id": 85554777,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-01-04T12:21:44Z",
+                "open_issues": 1,
                 "owner": "waitingcheung",
                 "repo": "deep-sudoku-solver",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "accelerate",
+                  "bnns",
+                  "convolutional-neural-networks",
+                  "coreimage",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "ios",
+                  "ios-app",
+                  "ios-demo",
+                  "ios-swift",
+                  "ios-tutorial",
+                  "ios10",
+                  "machine-learning",
+                  "sudoku",
+                  "sudoku-solver",
+                  "swift",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1519,12 +2191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Models for Vision Tasks on iOS",
+                "homepage": null,
                 "id": 76637532,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-06-02T21:51:45Z",
+                "open_issues": 2,
                 "owner": "IDLabs-Gate",
                 "repo": "enVision",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1535,12 +2212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Dream Machine iOS",
+                "homepage": null,
                 "id": 39057680,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2015-07-12T22:23:40Z",
+                "open_issues": 0,
                 "owner": "johndpope",
                 "repo": "deepdreamer",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1551,12 +2233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 39058686,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2015-07-09T00:33:04Z",
+                "open_issues": 0,
                 "owner": "johndpope",
                 "repo": "DeepDreamApp",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1567,12 +2254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This app combines deep learning image recognition with iOS",
+                "homepage": null,
                 "id": 50760453,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-01-31T20:12:46Z",
+                "open_issues": 0,
                 "owner": "jmolayem",
                 "repo": "corrosionapp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1590,12 +2282,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and simple OCR library written in Swift",
+                "homepage": null,
                 "id": 56840338,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-13T08:49:55Z",
+                "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4631
+                "stars": 4631,
+                "topics": [
+                  "deprecated",
+                  "ios",
+                  "macos",
+                  "ocr",
+                  "ocr-engine",
+                  "ocr-library",
+                  "optical-character-recognition",
+                  "swift",
+                  "swiftocr"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1606,12 +2313,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Image segmentation using GrabCut algorithm for iOS",
+                "homepage": null,
                 "id": 42667273,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2015-09-23T06:58:50Z",
+                "open_issues": 4,
                 "owner": "naver",
                 "repo": "grabcutios",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1629,12 +2341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras-trained RNN to emulate the works of a famous poet, powered by BrainCore",
+                "homepage": null,
                 "id": 62836203,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2016-11-28T11:57:18Z",
+                "open_issues": 1,
                 "owner": "craigomac",
                 "repo": "InfiniteMonkeys",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1652,12 +2369,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Network built in Apple Playground using Swift",
+                "homepage": null,
                 "id": 87763802,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-08-21T19:41:25Z",
+                "open_issues": 0,
                 "owner": "BilalReffas",
                 "repo": "EmojiIntelligence",
-                "stars": 1427
+                "stars": 1427,
+                "topics": [
+                  "ai",
+                  "apple",
+                  "artificial-intelligence",
+                  "ipad",
+                  "machine-learning",
+                  "macos",
+                  "network",
+                  "neural",
+                  "playground",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1681,12 +2414,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Swift Matrix  Library",
+                "homepage": "http://docs.stsievert.com/swix/",
                 "id": 20730415,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-05-19T20:51:44Z",
+                "open_issues": 8,
                 "owner": "stsievert",
                 "repo": "swix",
-                "stars": 586
+                "stars": 586,
+                "topics": [
+                  "linear-algebra",
+                  "math",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1697,12 +2439,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-dimensional Swift math",
+                "homepage": null,
                 "id": 43035355,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-05-14T14:30:33Z",
+                "open_issues": 18,
                 "owner": "alejandro-isaza",
                 "repo": "Upsurge",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "math",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1713,12 +2463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift example codes for the Accelerate.framework",
+                "homepage": null,
                 "id": 32961756,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2021-10-31T03:54:40Z",
+                "open_issues": 0,
                 "owner": "hyperjeff",
                 "repo": "Accelerate-in-Swift",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1729,12 +2484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast matrix type for Swift",
+                "homepage": null,
                 "id": 55174564,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-10-05T10:31:39Z",
+                "open_issues": 1,
                 "owner": "hollance",
                 "repo": "Matrix",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1745,12 +2505,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallel Computing Library for Linux and macOS & NVIDIA CUDA Wrapper",
+                "homepage": null,
                 "id": 70857440,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-03-27T21:11:07Z",
+                "open_issues": 1,
                 "owner": "rxwei",
                 "repo": "cuda-swift",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "cublas",
+                  "cuda",
+                  "gpu",
+                  "parallel",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1761,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A flexible Matrix library for Objective-C and Swift (MacOS and iOS)",
+                "homepage": null,
                 "id": 24410719,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-28T17:04:40Z",
+                "open_issues": 4,
                 "owner": "yconst",
                 "repo": "YCMatrix",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1777,12 +2553,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general math framework to make using math easy. Currently supports function solving and optimisation, matrix and vector algebra, complex numbers, big int, big frac, big rational, graphs and general handy extensions and functions.",
+                "homepage": null,
                 "id": 30039483,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-08-07T05:49:31Z",
+                "open_issues": 6,
                 "owner": "rugheid",
                 "repo": "Swift-MathEagle",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "biginteger",
+                  "complex-numbers",
+                  "graph-algorithms",
+                  "mathematics",
+                  "matrix-math",
+                  "prime-numbers",
+                  "swift",
+                  "vector-math"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1793,12 +2583,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Swift matrices with friendly semantics and a familiar interface",
+                "homepage": null,
                 "id": 49095488,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-11-16T12:27:23Z",
+                "open_issues": 3,
                 "owner": "JadenGeller",
                 "repo": "Dimensional",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1809,12 +2604,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Surge has been moved to its own organization on GitHub (@Jounce)",
+                "homepage": "https://github.com/Jounce/Surge",
                 "id": 214123844,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-12T14:45:03Z",
+                "open_issues": 0,
                 "owner": "mattt",
                 "repo": "Surge",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1825,12 +2625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Float NDArray library for Swift, accelerated with Accelerate Framework",
+                "homepage": null,
                 "id": 87622000,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-04-17T03:38:08Z",
+                "open_issues": 0,
                 "owner": "t-ae",
                 "repo": "ndarray",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1841,12 +2646,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Numerical Computing in Swift",
+                "homepage": null,
                 "id": 78416359,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-07-18T07:18:22Z",
+                "open_issues": 1,
                 "owner": "donald-pinckney",
                 "repo": "SwiftNum",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1864,12 +2674,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of functions for statistical calculation written in Swift.",
+                "homepage": null,
                 "id": 35311530,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-02-08T06:34:59Z",
+                "open_issues": 10,
                 "owner": "evgenyneu",
                 "repo": "SigmaSwiftStatistics",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "statistics",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1880,12 +2698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of functions for generating psuedorandom variables from various distributions",
+                "homepage": null,
                 "id": 36520437,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2015-12-17T19:48:26Z",
+                "open_issues": 0,
                 "owner": "SebastianOsinski",
                 "repo": "SORandom",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1896,12 +2719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift framework for random numbers & distributions.",
+                "homepage": null,
                 "id": 57416275,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-07-06T13:36:58Z",
+                "open_issues": 0,
                 "owner": "aidangomez",
                 "repo": "RandKit",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1919,12 +2747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "libLBFGS: a library of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)",
+                "homepage": "http://www.chokkan.org/software/liblbfgs/",
                 "id": 1074570,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-06-22T03:47:52Z",
+                "open_issues": 17,
                 "owner": "chokkan",
                 "repo": "liblbfgs",
-                "stars": 599
+                "stars": 599,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1935,12 +2768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift Library for Solving Optimization Problems (i.e., minimization/maximization)",
+                "homepage": "http://swift.versify-app.com",
                 "id": 22020717,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2014-07-20T05:58:54Z",
+                "open_issues": 1,
                 "owner": "haginile",
                 "repo": "SwiftOptimizer",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1951,12 +2789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conjugate gradient implementation in C",
+                "homepage": null,
                 "id": 22009666,
                 "language": null,
+                "license": null,
                 "last_commit": "2013-07-30T12:54:25Z",
+                "open_issues": 0,
                 "owner": "gautambhatrcb",
                 "repo": "fmincg-c",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -1974,12 +2817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LibXtract is a simple, portable, lightweight library of audio feature extraction functions.",
+                "homepage": null,
                 "id": 4509249,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-18T08:09:50Z",
+                "open_issues": 2,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -1990,12 +2838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mel-Frequency-Cepstral-Coefficients and Dynamic-Time-Warping for iOS/OSX",
+                "homepage": "http://hfink.eu/archive-2012/matchbox/index.html",
                 "id": 1632712,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2012-03-18T14:19:23Z",
+                "open_issues": 2,
                 "owner": "hfink",
                 "repo": "matchbox",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2013,12 +2866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+                "homepage": null,
                 "id": 32578467,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-07T05:36:26Z",
+                "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28014
+                "stars": 28014,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -2029,12 +2887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+                "homepage": null,
                 "id": 32578467,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-07T05:36:26Z",
+                "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28014
+                "stars": 28014,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -2045,12 +2908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core Plot source code and example applications",
+                "homepage": null,
                 "id": 15383182,
                 "language": "Objective-C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-04T00:23:50Z",
+                "open_issues": 47,
                 "owner": "core-plot",
                 "repo": "core-plot",
-                "stars": 2762
+                "stars": 2762,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -2061,12 +2929,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift",
+                "homepage": null,
                 "id": 35487373,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-10-28T06:00:06Z",
+                "open_issues": 0,
                 "owner": "v5tech",
                 "repo": "awesome-ios-chart",
-                "stars": 1517
+                "stars": 1517,
+                "topics": [
+                  "chart",
+                  "ios-charts",
+                  "swift-charts"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -2077,12 +2954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JTChartView is the new lightweight and fully customizable solution to draw a chart.",
+                "homepage": null,
                 "id": 38477728,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-11-18T14:00:15Z",
+                "open_issues": 1,
                 "owner": "kubatruhlar",
                 "repo": "JTChartView",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             },
@@ -2093,12 +2975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 28206678,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-01-06T03:41:06Z",
+                "open_issues": 1,
                 "owner": "lee-leonardo",
                 "repo": "iOS-D3",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2116,12 +3003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bioinformatics on iPhone",
+                "homepage": null,
                 "id": 39305218,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2015-07-21T20:54:08Z",
+                "open_issues": 0,
                 "owner": "Lizhen0909",
                 "repo": "iBio",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2139,12 +3031,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HDF5 for iOS and OS X",
+                "homepage": null,
                 "id": 43528037,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-09T21:52:56Z",
+                "open_issues": 4,
                 "owner": "alejandro-isaza",
                 "repo": "HDF5Kit",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "hdf5",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2162,12 +3062,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift kernel for IPython.",
+                "homepage": null,
                 "id": 63916411,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-09-12T01:15:38Z",
+                "open_issues": 2,
                 "owner": "KelvinJin",
                 "repo": "iSwift",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "jupyter",
+                  "notebook",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2194,12 +3103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://ciechanowski.me/blog/2014/01/05/exploring_gpgpu_on_ios/",
                 "id": 15654073,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2017-04-17T09:44:24Z",
+                "open_issues": 3,
                 "owner": "Ciechan",
                 "repo": "Exploring-GPGPU-on-iOS",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
             }
@@ -2219,12 +3133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Particle system that's both calculated and rendered on the GPU using the Metal framework",
+                    "homepage": null,
                     "id": 29383089,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2019-03-24T05:04:31Z",
+                    "open_issues": 4,
                     "owner": "FlexMonkey",
                     "repo": "ParticleLab",
-                    "stars": 500
+                    "stars": 500,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -2235,12 +3154,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reaction Diffusion using Swift & Metal",
+                    "homepage": null,
                     "id": 25388457,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2015-04-11T10:18:20Z",
+                    "open_issues": 0,
                     "owner": "FlexMonkey",
                     "repo": "MetalReactionDiffusion",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -2258,12 +3182,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Metal (GPU Programming) for Apple TVOS",
+                    "homepage": null,
                     "id": 42206038,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2015-09-09T21:37:53Z",
+                    "open_issues": 0,
                     "owner": "memkite",
                     "repo": "MetalForTVOS",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 },
@@ -2274,12 +3203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data Parallel Processing with Swift and Metal on GPU for iOS8 (and beyond)",
+                    "homepage": null,
                     "id": 29971477,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2014-12-30T14:01:34Z",
+                    "open_issues": 0,
                     "owner": "memkite",
                     "repo": "SwiftMetalGPUParallelProcessing",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:54.609Z"
                 }
@@ -2303,12 +3237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74194
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -2319,12 +3258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: List of awesome university courses for learning Computer Science!",
+            "homepage": null,
             "id": 26689598,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
+            "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70709
+            "stars": 70730,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-science",
+              "courses"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -2335,12 +3284,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29883
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -2351,12 +3316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -2367,12 +3337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :octocat: Machine Learning for Cyber Security",
+            "homepage": null,
             "id": 76955905,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T02:14:10Z",
+            "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9328
+            "stars": 9331,
+            "topics": [
+              "awesome-list",
+              "cyber-security",
+              "data-mining",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         },
@@ -2383,12 +3363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of speech and natural language processing resources",
+            "homepage": null,
             "id": 22443092,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-02T12:35:13Z",
+            "open_issues": 19,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2225
+            "stars": 2225,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
         }
@@ -2397,15 +3382,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:57:54.609Z",
+    "last_updated": "2026-08-29T04:32:04.311Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
+      "homepage": "https://alexsosn.github.io/ml/2015/11/05/iOS-ML.html",
       "id": 40960931,
       "language": null,
+      "license": null,
       "last_commit": "2018-07-30T19:55:52Z",
+      "open_issues": 2,
       "owner": "alexsosn",
       "repo": "iOS_ML",
-      "stars": 1427
+      "stars": 1427,
+      "topics": [
+        "artificial-intelligence",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "gpgpu",
+        "machine-learning",
+        "natural-language-processing",
+        "neural-network",
+        "speech-recognition",
+        "swift"
+      ]
     },
     "original_repository_sha": "655cfdcc524aebcc176bf1b3265b7f4c35e514ed",
     "enhanced_repository": "enhansome/enhansome-iOS_ML",
