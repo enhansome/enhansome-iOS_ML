@@ -61,7 +61,7 @@ Third-party converters to [CoreML format](https://apple.github.io/coremltools/co
 * [Torch7](https://github.com/prisma-ai/torch2coreml) ⚠️ Archived
 * [CatBoost](https://tech.yandex.com/catboost/doc/dg/features/export-model-to-core-ml-docpage/)
 
-There are many curated lists of pre-trained neural networks in Core ML format: [\[1\]](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07, [\[2\]](https://github.com/cocoa-ai/ModelZoo) ⭐ 96 | 🐛 0 | 📅 2018-08-20, [\[3\]](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,051 | 🐛 15 | 🌐 Python | 📅 2025-06-17.
+There are many curated lists of pre-trained neural networks in Core ML format: [\[1\]](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07, [\[2\]](https://github.com/cocoa-ai/ModelZoo) ⭐ 96 | 🐛 0 | 📅 2018-08-20, [\[3\]](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,052 | 🐛 15 | 🌐 Python | 📅 2025-06-17.
 
 Core ML currently doesn't support training models, but still, you can replace model by downloading a new one from a server in runtime. [Here is a demo](https://github.com/zedge/DynamicCoreML) ⚠️ Archived of how to do it. It uses generator part of MNIST GAN as Core ML model.
 
@@ -359,7 +359,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 **Multilayer perceptron implementations:**
 
 * [Brain.js](https://github.com/harthur/brain) ⚠️ Archived - JS
-* [Swift-AI](https://github.com/Swift-AI/Swift-AI) ⭐ 6,037 | 🐛 13 | 🌐 Swift | 📅 2017-05-03 - Swift
+* [Swift-AI](https://github.com/Swift-AI/Swift-AI) ⭐ 6,036 | 🐛 13 | 🌐 Swift | 📅 2017-05-03 - Swift
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 899 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Objective-C, Accelerate
 * [SNNeuralNet](https://github.com/devongovett/SNNeuralNet) ⭐ 42 | 🐛 0 | 🌐 Objective-C | 📅 2013-12-05 - Objective-C port of brain.js
 * [ios-BPN-NeuralNetwork](https://github.com/Kalvar/ios-BPN-NeuralNetwork) ⭐ 33 | 🐛 0 | 🌐 Objective-C | 📅 2015-11-15 - Objective-C
@@ -372,7 +372,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 ### On-Device training and inference
 
-* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31. \[BSD]
+* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31. \[BSD]
   * [caffe-mobile](https://github.com/solrex/caffe-mobile) ⭐ 312 | 🐛 11 | 🌐 C++ | 📅 2018-08-07 - another iOS port.
   * [Caffe iOS sample](https://github.com/noradaiko/caffe-ios-sample) ⭐ 99 | 🐛 0 | 🌐 Objective-C++ | 📅 2016-01-04
   * [iOS port](https://github.com/aleph7/caffe) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2016-01-31
@@ -388,7 +388,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
   * [iOS demo app](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
   * [Cocoa Pod](https://github.com/RobertBiehl/caffe2-ios) ⭐ 71 | 🐛 4 | 🌐 C++ | 📅 2019-10-01
 * [TensorFlow](http://www.tensorflow.org/) - an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.
-  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 198,354 | 🐛 3,023 | 🌐 C++ | 📅 2026-09-02
+  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 198,364 | 🐛 3,024 | 🌐 C++ | 📅 2026-09-03
   * [another example](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 439 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
   * [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) ⭐ 167 | 🐛 0 | 🌐 Swift | 📅 2020-07-07 - TensorFlow binding for [Perfect](http://perfect.org/) (server-side Swift framework). Includes only C TF API.
 * [Torch](http://torch.ch/) is a scientific computing framework with wide support for machine learning algorithms.
@@ -426,13 +426,13 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### <a name="dlmc"/>Deep Learning: Model Compression
 
-* [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe) ⭐ 1,274 | 🐛 48 | 🌐 Python | 📅 2021-06-08 - Caffe Implementation of Google's MobileNets
+* [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe) ⭐ 1,273 | 🐛 48 | 🌐 Python | 📅 2021-06-08 - Caffe Implementation of Google's MobileNets
 * [keras-surgeon](https://github.com/BenWhetton/keras-surgeon) ⭐ 407 | 🐛 40 | 🌐 Python | 📅 2023-12-05 - Pruning for trained Keras models.
 * TensorFlow implementation of [knowledge distilling](https://github.com/chengshengchan/model_compression) ⭐ 343 | 🐛 3 | 🌐 Python | 📅 2017-01-03 method
 
 # <a name="cv"/>Computer Vision
 
-* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) ⭐ 7,743 | 🐛 361 | 🌐 MATLAB | 📅 2024-06-01 – a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
+* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) ⭐ 7,744 | 🐛 361 | 🌐 MATLAB | 📅 2024-06-01 – a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
   * [iOS port](https://github.com/FaceAR/OpenFaceIOS) ⭐ 507 | 🐛 2 | 🌐 C++ | 📅 2017-05-18
   * [iOS demo](https://github.com/FaceAR/OpenFaceIOS) ⭐ 507 | 🐛 2 | 🌐 C++ | 📅 2017-05-18
 * [ccv](http://libccv.org) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
@@ -467,7 +467,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="ocr"/>Text Recognition (OCR)
 
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,517 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,518 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
 * **Tesseract**
   * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,221 | 🐛 120 | 🌐 C | 📅 2021-05-03
   * [tesseract-ios](https://github.com/ldiqual/tesseract-ios) ⚠️ Archived
@@ -591,8 +591,8 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### <a name="dv"/>Data Visualization
 
-* [Charts](https://github.com/danielgindi/Charts) ⭐ 28,011 | 🐛 977 | 🌐 Swift | 📅 2026-03-07 - The Swift port of the MPAndroidChart.
-* [iOS-Charts](https://github.com/danielgindi/ios-charts) ⭐ 28,011 | 🐛 977 | 🌐 Swift | 📅 2026-03-07
+* [Charts](https://github.com/danielgindi/Charts) ⭐ 28,012 | 🐛 977 | 🌐 Swift | 📅 2026-03-07 - The Swift port of the MPAndroidChart.
+* [iOS-Charts](https://github.com/danielgindi/ios-charts) ⭐ 28,012 | 🐛 977 | 🌐 Swift | 📅 2026-03-07
 * [Core Plot](https://github.com/core-plot/core-plot) ⭐ 2,761 | 🐛 47 | 🌐 Objective-C | 📅 2026-05-04
 * [Awesome iOS charts](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,516 | 🐛 0 | 📅 2025-10-28
 * [JTChartView](https://github.com/kubatru/JTChartView) ⭐ 123 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-18
@@ -704,14 +704,14 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="lists"/>Other Lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,240 | 🐛 30 | 🌐 Python | 📅 2026-08-27
-* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,820 | 🐛 65 | 📅 2023-05-04
-* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 29,913 | 🐛 10 | 📅 2026-09-01
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,533 | 🐛 92 | 📅 2024-05-17
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,347 | 🐛 30 | 📅 2024-08-19
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,242 | 🐛 29 | 🌐 Python | 📅 2026-09-02
+* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,849 | 🐛 65 | 📅 2023-05-04
+* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 29,923 | 🐛 10 | 📅 2026-09-02
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,537 | 🐛 92 | 📅 2024-05-17
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,347 | 🐛 29 | 📅 2024-08-19
 * [Speech and language processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,225 | 🐛 19 | 📅 2019-04-02
 * [The Rise of Chat Bots:](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)  Useful Links, Articles, Libraries and Platforms by Pavlo Bashmakov.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
