@@ -360,7 +360,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 * [Brain.js](https://github.com/harthur/brain) ⚠️ Archived - JS
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) ⭐ 6,037 | 🐛 13 | 🌐 Swift | 📅 2017-05-03 - Swift
-* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 899 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Objective-C, Accelerate
+* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 898 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Objective-C, Accelerate
 * [SNNeuralNet](https://github.com/devongovett/SNNeuralNet) ⭐ 42 | 🐛 0 | 🌐 Objective-C | 📅 2013-12-05 - Objective-C port of brain.js
 * [ios-BPN-NeuralNetwork](https://github.com/Kalvar/ios-BPN-NeuralNetwork) ⭐ 33 | 🐛 0 | 🌐 Objective-C | 📅 2015-11-15 - Objective-C
 * [SwiftSimpleNeuralNetwork](https://github.com/davecom/SwiftSimpleNeuralNetwork) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2024-09-17 - Swift
@@ -372,12 +372,12 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 ### On-Device training and inference
 
-* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31. \[BSD]
+* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,552 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31. \[BSD]
   * [caffe-mobile](https://github.com/solrex/caffe-mobile) ⭐ 312 | 🐛 11 | 🌐 C++ | 📅 2018-08-07 - another iOS port.
   * [Caffe iOS sample](https://github.com/noradaiko/caffe-ios-sample) ⭐ 99 | 🐛 0 | 🌐 Objective-C++ | 📅 2016-01-04
   * [iOS port](https://github.com/aleph7/caffe) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2016-01-31
   * C++ examples: [Classifying ImageNet](http://caffe.berkeleyvision.org/gathered/examples/cpp_classification.html), [Extracting Features](http://caffe.berkeleyvision.org/gathered/examples/feature_extraction.html)
-* [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a Javascript library for training Deep Learning models by [Andrej Karpathy](https://twitter.com/karpathy). [GitHub](https://github.com/karpathy/convnetjs) ⭐ 11,198 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07
+* [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a Javascript library for training Deep Learning models by [Andrej Karpathy](https://twitter.com/karpathy). [GitHub](https://github.com/karpathy/convnetjs) ⭐ 11,199 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07
   * [ConvNetSwift](https://github.com/alexsosn/ConvNetSwift) ⭐ 42 | 🐛 1 | 🌐 Swift | 📅 2017-03-10 - Swift port \[work in progress].
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,030 | 🐛 297 | 🌐 C++ | 📅 2022-04-17 - header only, dependency-free deep learning framework in C++11.
   * [iOS example](https://github.com/tiny-dnn/tiny-dnn/tree/d4fff53fa0d01f59eb162de2ec32c652a1f6f467/examples/ios) ⭐ 6,030 | 🐛 297 | 🌐 C++ | 📅 2022-04-17
@@ -388,8 +388,8 @@ Core ML currently doesn't support training models, but still, you can replace mo
   * [iOS demo app](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
   * [Cocoa Pod](https://github.com/RobertBiehl/caffe2-ios) ⭐ 71 | 🐛 4 | 🌐 C++ | 📅 2019-10-01
 * [TensorFlow](http://www.tensorflow.org/) - an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.
-  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 198,833 | 🐛 3,124 | 🌐 C++ | 📅 2026-09-05
-  * [another example](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 439 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
+  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 198,869 | 🐛 3,078 | 🌐 C++ | 📅 2026-09-06
+  * [another example](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 438 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
   * [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) ⭐ 167 | 🐛 0 | 🌐 Swift | 📅 2020-07-07 - TensorFlow binding for [Perfect](http://perfect.org/) (server-side Swift framework). Includes only C TF API.
 * [Torch](http://torch.ch/) is a scientific computing framework with wide support for machine learning algorithms.
   * [Torch-iOS](https://github.com/clementfarabet/torch-ios) ⭐ 196 | 🐛 17 | 🌐 C | 📅 2016-01-11
@@ -399,7 +399,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 These libraries doesn't support training, so you need to pre-train models in some ML framework.
 
-* [Bender](https://github.com/xmartlabs/Bender) ⭐ 1,801 | 🐛 18 | 🌐 Swift | 📅 2023-11-07 - Framework for building fast NNs. Supports TensorFlow models. It uses Metal under the hood.
+* [Bender](https://github.com/xmartlabs/Bender) ⭐ 1,800 | 🐛 18 | 🌐 Swift | 📅 2023-11-07 - Framework for building fast NNs. Supports TensorFlow models. It uses Metal under the hood.
 * [Forge](https://github.com/hollance/Forge) ⭐ 1,264 | 🐛 3 | 🌐 Swift | 📅 2018-05-18 - A neural network toolkit for Metal.
 * [Quantized-CNN](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30 - compressed convolutional neural networks for Mobile Devices
 * [Espresso](https://github.com/codinfox/espresso) ⭐ 116 | 🐛 0 | 🌐 Swift | 📅 2016-05-23 - A minimal high performance parallel neural network framework running on iOS.
@@ -418,7 +418,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 * [STEM](https://github.com/abeschneider/stem) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2017-01-26 - Swift Tensor Engine for Machine-learning
   * [Documentation](http://stem.readthedocs.io/en/latest/)
 * [BNNS](https://developer.apple.com/reference/accelerate/1912851-bnns) - Apple Basic neural network subroutines (BNNS) is a collection of functions that you use to implement and run neural networks, using previously obtained training data.
-  * [BNNS usage examples](https://github.com/shu223/iOS-10-Sampler) ⭐ 3,271 | 🐛 4 | 🌐 Swift | 📅 2024-05-01 in iOS 10 sampler.
+  * [BNNS usage examples](https://github.com/shu223/iOS-10-Sampler) ⭐ 3,269 | 🐛 4 | 🌐 Swift | 📅 2024-05-01 in iOS 10 sampler.
   * [An example](https://github.com/bignerdranch/bnns-cocoa-example) of a neural network trained by tensorflow and executed using BNNS
 * [MetalPerformanceShaders](https://developer.apple.com/reference/metalperformanceshaders) - CNNs on GPU from Apple.
   * [MPSCNNfeeder](https://github.com/kazoo-kmt/MPSCNNfeeder) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2017-01-27 - Keras to MPS models conversion.
@@ -467,9 +467,9 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="ocr"/>Text Recognition (OCR)
 
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,518 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,517 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
 * **Tesseract**
-  * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,221 | 🐛 120 | 🌐 C | 📅 2021-05-03
+  * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,220 | 🐛 120 | 🌐 C | 📅 2021-05-03
   * [tesseract-ios](https://github.com/ldiqual/tesseract-ios) ⚠️ Archived
   * [tesseract-ios-lib](https://github.com/ldiqual/tesseract-ios-lib) ⭐ 126 | 🐛 2 | 🌐 C++ | 📅 2012-10-10
   * [OCR-iOS-Example](https://github.com/robmathews/OCR-iOS-Example) ⭐ 96 | 🐛 0 | 🌐 C++ | 📅 2014-01-03
@@ -533,7 +533,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### Traditional Computer Vision
 
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,631 | 🐛 86 | 🌐 Swift | 📅 2020-12-13
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,630 | 🐛 86 | 🌐 Swift | 📅 2020-12-13
 * [GrabCutIOS](https://github.com/naver/grabcutios) ⚠️ Archived - Image segmentation using GrabCut algorithm for iOS
 
 ### NLP
@@ -591,9 +591,9 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### <a name="dv"/>Data Visualization
 
-* [Charts](https://github.com/danielgindi/Charts) ⭐ 28,012 | 🐛 977 | 🌐 Swift | 📅 2026-03-07 - The Swift port of the MPAndroidChart.
-* [iOS-Charts](https://github.com/danielgindi/ios-charts) ⭐ 28,012 | 🐛 977 | 🌐 Swift | 📅 2026-03-07
-* [Core Plot](https://github.com/core-plot/core-plot) ⭐ 2,761 | 🐛 47 | 🌐 Objective-C | 📅 2026-05-04
+* [Charts](https://github.com/danielgindi/Charts) ⭐ 28,011 | 🐛 977 | 🌐 Swift | 📅 2026-03-07 - The Swift port of the MPAndroidChart.
+* [iOS-Charts](https://github.com/danielgindi/ios-charts) ⭐ 28,011 | 🐛 977 | 🌐 Swift | 📅 2026-03-07
+* [Core Plot](https://github.com/core-plot/core-plot) ⭐ 2,760 | 🐛 47 | 🌐 Objective-C | 📅 2026-05-04
 * [Awesome iOS charts](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,516 | 🐛 0 | 📅 2025-10-28
 * [JTChartView](https://github.com/kubatru/JTChartView) ⭐ 123 | 🐛 1 | 🌐 Objective-C | 📅 2016-11-18
 * [D3.js iOS binding](https://github.com/lee-leonardo/iOS-D3) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2015-01-06
@@ -704,14 +704,14 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="lists"/>Other Lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,259 | 🐛 30 | 🌐 Python | 📅 2026-09-02
-* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,897 | 🐛 65 | 📅 2023-05-04
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,263 | 🐛 30 | 🌐 Python | 📅 2026-09-02
+* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,913 | 🐛 65 | 📅 2023-05-04
 * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 29,937 | 🐛 11 | 📅 2026-09-04
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,538 | 🐛 92 | 📅 2024-05-17
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,355 | 🐛 31 | 📅 2024-08-19
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,358 | 🐛 31 | 📅 2024-08-19
 * [Speech and language processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,224 | 🐛 19 | 📅 2019-04-02
 * [The Rise of Chat Bots:](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)  Useful Links, Articles, Libraries and Platforms by Pavlo Bashmakov.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
