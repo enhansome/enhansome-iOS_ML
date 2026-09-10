@@ -42,7 +42,7 @@
             "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11156,
+            "stars": 11157,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2852,
+                "stars": 2851,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T05:52:07Z",
-                    "open_issues": 3122,
+                    "last_commit": "2026-09-10T05:57:45Z",
+                    "open_issues": 3143,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 199338,
+                    "stars": 199309,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -1231,7 +1231,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7748,
+            "stars": 7750,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -1877,7 +1877,7 @@
                 "open_issues": 68,
                 "owner": "cysmith",
                 "repo": "neural-style-tf",
-                "stars": 3104,
+                "stars": 3103,
                 "topics": [
                   "convolutional-neural-network",
                   "deep-learning",
@@ -2875,7 +2875,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28010,
+                "stars": 28009,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2896,7 +2896,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28010,
+                "stars": 28009,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3246,7 +3246,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74284,
+            "stars": 74285,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70982,
+            "stars": 71020,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3289,11 +3289,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T19:25:43Z",
+            "last_commit": "2026-09-09T16:27:56Z",
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29947,
+            "stars": 29955,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3325,7 +3325,7 @@
             "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23545,
+            "stars": 23546,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3346,7 +3346,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9373,
+            "stars": 9374,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:05:02.451Z",
+    "last_updated": "2026-09-10T06:04:41.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
