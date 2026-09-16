@@ -19,7 +19,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811,
+            "stars": 20810,
             "topics": [
               "mxnet"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11157,
+            "stars": 11156,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T06:06:58Z",
-                    "open_issues": 3172,
+                    "last_commit": "2026-09-16T06:08:39Z",
+                    "open_issues": 3152,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200089,
+                    "stars": 200123,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -1031,7 +1031,7 @@
                     "open_issues": 4,
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
-                    "stars": 3269,
+                    "stars": 3268,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -1748,7 +1748,7 @@
                 "open_issues": 49,
                 "owner": "aws-amplify",
                 "repo": "aws-sdk-ios",
-                "stars": 1704,
+                "stars": 1703,
                 "topics": [
                   "amazon-web-services",
                   "aws-mobile",
@@ -2875,7 +2875,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28007,
+                "stars": 28006,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2896,7 +2896,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28007,
+                "stars": 28006,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3246,7 +3246,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74335,
+            "stars": 74343,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71153,
+            "stars": 71181,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3293,7 +3293,7 @@
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29986,
+            "stars": 29991,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3346,7 +3346,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9376,
+            "stars": 9380,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:12:38.725Z",
+    "last_updated": "2026-09-16T06:09:34.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
