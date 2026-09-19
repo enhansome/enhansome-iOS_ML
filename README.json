@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7985,
+            "stars": 7984,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -404,7 +404,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34553,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T06:01:14Z",
-                    "open_issues": 3169,
+                    "last_commit": "2026-09-19T05:59:35Z",
+                    "open_issues": 3187,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200162,
+                    "stars": 200176,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -829,7 +829,7 @@
                 "open_issues": 18,
                 "owner": "xmartlabs",
                 "repo": "Bender",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "apple",
                   "convolutional-neural-networks",
@@ -1031,7 +1031,7 @@
                     "open_issues": 4,
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
-                    "stars": 3268,
+                    "stars": 3267,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -2291,7 +2291,7 @@
                 "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4630,
+                "stars": 4628,
                 "topics": [
                   "deprecated",
                   "ios",
@@ -2917,7 +2917,7 @@
                 "open_issues": 47,
                 "owner": "core-plot",
                 "repo": "core-plot",
-                "stars": 2759,
+                "stars": 2758,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3246,7 +3246,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74361,
+            "stars": 74370,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71227,
+            "stars": 71251,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3293,7 +3293,7 @@
             "open_issues": 6,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30005,
+            "stars": 30013,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3325,7 +3325,7 @@
             "open_issues": 97,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23558,
+            "stars": 23563,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:01:48.474Z",
+    "last_updated": "2026-09-19T06:00:17.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
@@ -3394,7 +3394,7 @@
       "open_issues": 2,
       "owner": "alexsosn",
       "repo": "iOS_ML",
-      "stars": 1427,
+      "stars": 1426,
       "topics": [
         "artificial-intelligence",
         "awesome-list",
