@@ -61,7 +61,7 @@ Third-party converters to [CoreML format](https://apple.github.io/coremltools/co
 * [Torch7](https://github.com/prisma-ai/torch2coreml) ⚠️ Archived
 * [CatBoost](https://tech.yandex.com/catboost/doc/dg/features/export-model-to-core-ml-docpage/)
 
-There are many curated lists of pre-trained neural networks in Core ML format: [\[1\]](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07, [\[2\]](https://github.com/cocoa-ai/ModelZoo) ⭐ 96 | 🐛 0 | 📅 2018-08-20, [\[3\]](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,059 | 🐛 16 | 🌐 Python | 📅 2025-06-17.
+There are many curated lists of pre-trained neural networks in Core ML format: [\[1\]](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07, [\[2\]](https://github.com/cocoa-ai/ModelZoo) ⭐ 96 | 🐛 0 | 📅 2018-08-20, [\[3\]](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,060 | 🐛 16 | 🌐 Python | 📅 2025-06-17.
 
 Core ML currently doesn't support training models, but still, you can replace model by downloading a new one from a server in runtime. [Here is a demo](https://github.com/zedge/DynamicCoreML) ⚠️ Archived of how to do it. It uses generator part of MNIST GAN as Core ML model.
 
@@ -388,7 +388,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
   * [iOS demo app](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
   * [Cocoa Pod](https://github.com/RobertBiehl/caffe2-ios) ⭐ 71 | 🐛 4 | 🌐 C++ | 📅 2019-10-01
 * [TensorFlow](http://www.tensorflow.org/) - an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.
-  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 200,200 | 🐛 3,202 | 🌐 C++ | 📅 2026-09-20
+  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 200,221 | 🐛 3,230 | 🌐 C++ | 📅 2026-09-21
   * [another example](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 438 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
   * [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) ⭐ 167 | 🐛 0 | 🌐 Swift | 📅 2020-07-07 - TensorFlow binding for [Perfect](http://perfect.org/) (server-side Swift framework). Includes only C TF API.
 * [Torch](http://torch.ch/) is a scientific computing framework with wide support for machine learning algorithms.
@@ -399,7 +399,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 These libraries doesn't support training, so you need to pre-train models in some ML framework.
 
-* [Bender](https://github.com/xmartlabs/Bender) ⭐ 1,800 | 🐛 18 | 🌐 Swift | 📅 2023-11-07 - Framework for building fast NNs. Supports TensorFlow models. It uses Metal under the hood.
+* [Bender](https://github.com/xmartlabs/Bender) ⭐ 1,801 | 🐛 18 | 🌐 Swift | 📅 2023-11-07 - Framework for building fast NNs. Supports TensorFlow models. It uses Metal under the hood.
 * [Forge](https://github.com/hollance/Forge) ⭐ 1,263 | 🐛 3 | 🌐 Swift | 📅 2018-05-18 - A neural network toolkit for Metal.
 * [Quantized-CNN](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30 - compressed convolutional neural networks for Mobile Devices
 * [Espresso](https://github.com/codinfox/espresso) ⭐ 116 | 🐛 0 | 🌐 Swift | 📅 2016-05-23 - A minimal high performance parallel neural network framework running on iOS.
@@ -579,7 +579,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### <a name="mo"/>Mathematical optimization
 
-* [libLBFGS](https://github.com/chokkan/liblbfgs) ⭐ 599 | 🐛 17 | 🌐 C | 📅 2023-06-22 - a C library of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)
+* [libLBFGS](https://github.com/chokkan/liblbfgs) ⭐ 598 | 🐛 17 | 🌐 C | 📅 2023-06-22 - a C library of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS)
 * [SwiftOptimizer](https://github.com/haginile/SwiftOptimizer) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2014-07-20 - QuantLib Swift port.
 * [fmincg-c](https://github.com/gautambhatrcb/fmincg-c) ⭐ 7 | 🐛 0 | 📅 2013-07-30 - Conjugate gradient implementation in C
 
@@ -704,14 +704,14 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="lists"/>Other Lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,377 | 🐛 30 | 🌐 Python | 📅 2026-09-17
-* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 71,270 | 🐛 64 | 📅 2023-05-04
-* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,020 | 🐛 8 | 📅 2026-09-09
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,565 | 🐛 97 | 📅 2024-05-17
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,393 | 🐛 31 | 📅 2024-08-19
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,381 | 🐛 30 | 🌐 Python | 📅 2026-09-17
+* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 71,297 | 🐛 64 | 📅 2023-05-04
+* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,037 | 🐛 8 | 📅 2026-09-09
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,569 | 🐛 97 | 📅 2024-05-17
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,392 | 🐛 31 | 📅 2024-08-19
 * [Speech and language processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,225 | 🐛 18 | 📅 2019-04-02
 * [The Rise of Chat Bots:](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)  Useful Links, Articles, Libraries and Platforms by Pavlo Bashmakov.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
