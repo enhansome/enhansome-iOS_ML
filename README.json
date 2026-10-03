@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T04:18:42Z",
-                    "open_issues": 3242,
+                    "last_commit": "2026-10-03T06:08:35Z",
+                    "open_issues": 3243,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200668,
+                    "stars": 200671,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -3246,7 +3246,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74511,
+            "stars": 74513,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71549,
+            "stars": 71551,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3290,7 +3290,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-02T20:20:58Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "academic",
             "repo": "awesome-datascience",
             "stars": 30103,
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:00.558Z",
+    "last_updated": "2026-10-03T06:37:31.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
