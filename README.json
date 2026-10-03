@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "MXNet",
-          "description": null,
+          "description": "apache/mxnet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -29,7 +29,7 @@
         {
           "node_type": "item",
           "title": "Turicreate",
-          "description": null,
+          "description": "apple/turicreate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "TensorFlow",
-          "description": null,
+          "description": "tf-coreml/tf-coreml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Torch7",
-          "description": null,
+          "description": "prisma-ai/torch2coreml",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7985,
+            "stars": 7986,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Swift-AI",
             "repo": "Swift-AI",
-            "stars": 6033,
+            "stars": 6032,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -353,7 +353,7 @@
                 {
                   "node_type": "item",
                   "title": "Caffe iOS sample",
-                  "description": null,
+                  "description": "craftzdog/caffe-ios-sample",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -374,7 +374,7 @@
                 {
                   "node_type": "item",
                   "title": "iOS port",
-                  "description": null,
+                  "description": "alejandro-isaza/caffe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -404,7 +404,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -472,7 +472,7 @@
                 {
                   "node_type": "item",
                   "title": "iOS example",
-                  "description": null,
+                  "description": "tiny-dnn/tiny-dnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -533,7 +533,7 @@
                 "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2850,
+                "stars": 2851,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -593,7 +593,7 @@
                 {
                   "node_type": "item",
                   "title": "iOS demo app",
-                  "description": null,
+                  "description": "KleinYuan/Caffe2-iOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -635,7 +635,7 @@
                 {
                   "node_type": "item",
                   "title": "Cocoa Pod",
-                  "description": null,
+                  "description": "RobertBiehl/caffe2-ios",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -670,7 +670,7 @@
                 {
                   "node_type": "item",
                   "title": "iOS examples",
-                  "description": null,
+                  "description": "tensorflow/tensorflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T06:34:35Z",
-                    "open_issues": 3238,
+                    "last_commit": "2026-10-03T04:18:42Z",
+                    "open_issues": 3242,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200662,
+                    "stars": 200668,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -700,7 +700,7 @@
                 {
                   "node_type": "item",
                   "title": "another example",
-                  "description": null,
+                  "description": "hollance/TensorFlow-iOS-Example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -765,7 +765,7 @@
                 {
                   "node_type": "item",
                   "title": "Torch-iOS",
-                  "description": null,
+                  "description": "clementfarabet/torch-ios",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -786,7 +786,7 @@
                 {
                   "node_type": "item",
                   "title": "Torch4iOS",
-                  "description": null,
+                  "description": "jhondge/torch4ios",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -921,7 +921,7 @@
             {
               "node_type": "item",
               "title": "Converter for Torch models",
-              "description": null,
+              "description": "kurtjacobsdev/torch2ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "iOS port",
-              "description": null,
+              "description": "FaceAR/OpenFaceIOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1201,7 +1201,7 @@
             {
               "node_type": "item",
               "title": "iOS demo",
-              "description": null,
+              "description": "FaceAR/OpenFaceIOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1231,7 +1231,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7777,
+            "stars": 7778,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -1244,7 +1244,7 @@
             {
               "node_type": "item",
               "title": "iOS demo app",
-              "description": null,
+              "description": "liuliu/klaus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1272,7 +1272,7 @@
             {
               "node_type": "item",
               "title": "OpenCVSwiftStitch",
-              "description": null,
+              "description": "foundry/OpenCVSwiftStitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "A Collection of OpenCV Samples For iOS",
-              "description": null,
+              "description": "kurtjacobsdev/OpenCV-iOS-Demos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1322,7 +1322,7 @@
         {
           "node_type": "item",
           "title": "Parsimmon",
-          "description": null,
+          "description": "ayanonagon/Parsimmon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1412,7 +1412,7 @@
         {
           "node_type": "item",
           "title": "MVSpeechSynthesizer",
-          "description": null,
+          "description": "vimalmurugan89/MVSpeechSynthesizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1459,7 +1459,7 @@
             {
               "node_type": "item",
               "title": "Proof of concept app",
-              "description": null,
+              "description": "keenresearch/keenasr-ios-poc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1521,7 +1521,7 @@
             {
               "node_type": "item",
               "title": "Tesseract-OCR-iOS",
-              "description": null,
+              "description": "gali8/Tesseract-OCR-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "tesseract-ios",
-              "description": null,
+              "description": "ldiqual/tesseract-ios",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1563,7 +1563,7 @@
             {
               "node_type": "item",
               "title": "tesseract-ios-lib",
-              "description": null,
+              "description": "ldiqual/tesseract-ios-lib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1584,7 +1584,7 @@
             {
               "node_type": "item",
               "title": "OCR-iOS-Example",
-              "description": null,
+              "description": "robmathews/OCR-iOS-Example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1640,7 +1640,7 @@
         {
           "node_type": "item",
           "title": "Build Your Own Lisp In Swift",
-          "description": null,
+          "description": "hollance/BuildYourOwnLispInSwift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1735,7 +1735,7 @@
             {
               "node_type": "item",
               "title": "iOS SDK",
-              "description": null,
+              "description": "aws-amplify/aws-sdk-ios",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1770,7 +1770,7 @@
             {
               "node_type": "item",
               "title": "Swift SDK",
-              "description": null,
+              "description": "minhtule/PredictionIO-Swift-SDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1864,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow implementation of Neural Style",
-              "description": null,
+              "description": "cysmith/neural-style-tf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1916,7 +1916,7 @@
             {
               "node_type": "item",
               "title": "VGGNet on Metal",
-              "description": null,
+              "description": "hollance/VGGNet-Metal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1937,7 @@
             {
               "node_type": "item",
               "title": "What'sThis",
-              "description": null,
+              "description": "pppoe/WhatsThis-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1984,7 +1984,7 @@
             {
               "node_type": "item",
               "title": "Neural style in Android",
-              "description": null,
+              "description": "naman14/Arcade",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2058,7 @@
             {
               "node_type": "item",
               "title": "Benchmark of BNNS vs. MPS",
-              "description": null,
+              "description": "hollance/BNNS-vs-MPSCNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2106,7 +2106,7 @@
             {
               "node_type": "item",
               "title": "GoogLeNet on iOS demo",
-              "description": null,
+              "description": "krasin/MetalDetector",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2250,7 +2250,7 @@
             {
               "node_type": "item",
               "title": "Corrosion detection app",
-              "description": null,
+              "description": "jmolayem/corrosionapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2278,7 +2278,7 @@
             {
               "node_type": "item",
               "title": "SwiftOCR",
-              "description": null,
+              "description": "NMAC427/SwiftOCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2365,7 +2365,7 @@
             {
               "node_type": "item",
               "title": "Neural Network built in Apple Playground using Swift",
-              "description": null,
+              "description": "BilalReffas/EmojiIntelligence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2822,7 +2822,7 @@
                 "id": 4509249,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-09-30T13:36:04Z",
+                "last_commit": "2026-10-02T08:24:43Z",
                 "open_issues": 1,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
@@ -2875,7 +2875,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28001,
+                "stars": 27997,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2883,7 +2883,7 @@
             {
               "node_type": "item",
               "title": "iOS-Charts",
-              "description": null,
+              "description": "ChartsOrg/Charts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2896,7 +2896,7 @@
                 "open_issues": 977,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 28001,
+                "stars": 27997,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2904,7 +2904,7 @@
             {
               "node_type": "item",
               "title": "Core Plot",
-              "description": null,
+              "description": "core-plot/core-plot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2925,7 +2925,7 @@
             {
               "node_type": "item",
               "title": "Awesome iOS charts",
-              "description": null,
+              "description": "v5tech/awesome-ios-chart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2950,7 +2950,7 @@
             {
               "node_type": "item",
               "title": "JTChartView",
-              "description": null,
+              "description": "kubatruhlar/JTChartView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2971,7 +2971,7 @@
             {
               "node_type": "item",
               "title": "D3.js iOS binding",
-              "description": null,
+              "description": "lee-leonardo/iOS-D3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3099,7 +3099,7 @@
             {
               "node_type": "item",
               "title": "Ciechan/Exploring-GPGPU-on-iOS",
-              "description": null,
+              "description": "Ciechan/Exploring-GPGPU-on-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3129,7 +3129,7 @@
                 {
                   "node_type": "item",
                   "title": "FlexMonkey/ParticleLab",
-                  "description": null,
+                  "description": "FlexMonkey/ParticleLab",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3150,7 +3150,7 @@
                 {
                   "node_type": "item",
                   "title": "FlexMonkey/MetalReactionDiffusion",
-                  "description": null,
+                  "description": "FlexMonkey/MetalReactionDiffusion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3178,7 +3178,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift and Metal example for General Purpose GPU Processing on Apple TVOS 9.0",
-                  "description": null,
+                  "description": "memkite/MetalForTVOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3199,7 +3199,7 @@
                 {
                   "node_type": "item",
                   "title": "Data Parallel Processing with Swift and Metal on GPU for iOS8",
-                  "description": null,
+                  "description": "memkite/SwiftMetalGPUParallelProcessing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3233,7 +3233,7 @@
         {
           "node_type": "item",
           "title": "Awesome Machine Learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3246,7 +3246,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74505,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3254,7 +3254,7 @@
         {
           "node_type": "item",
           "title": "Machine Learning Courses",
-          "description": null,
+          "description": "prakhar1989/awesome-courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3267,7 +3267,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71529,
+            "stars": 71549,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3280,7 +3280,7 @@
         {
           "node_type": "item",
           "title": "Awesome Data Science",
-          "description": null,
+          "description": "academic/awesome-datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3289,11 +3289,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-30T08:49:56Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T20:20:58Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30100,
+            "stars": 30103,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3312,7 +3312,7 @@
         {
           "node_type": "item",
           "title": "Awesome Computer Vision",
-          "description": null,
+          "description": "jbhuang0604/awesome-computer-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3333,7 +3333,7 @@
         {
           "node_type": "item",
           "title": "Awesome Machine Learning for Cyber Security",
-          "description": null,
+          "description": "jivoi/awesome-ml-for-cybersecurity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3346,7 +3346,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9431,
+            "stars": 9434,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3359,7 +3359,7 @@
         {
           "node_type": "item",
           "title": "Speech and language processing",
-          "description": null,
+          "description": "edobashira/speech-language-processing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:04:43.375Z",
+    "last_updated": "2026-10-03T04:51:00.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
