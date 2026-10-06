@@ -19,7 +19,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20804,
+            "stars": 20805,
             "topics": [
               "mxnet"
             ]
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T07:37:57Z",
-                    "open_issues": 3262,
+                    "last_commit": "2026-10-06T10:00:09Z",
+                    "open_issues": 3260,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200714,
+                    "stars": 200715,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -3246,7 +3246,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74529,
+            "stars": 74531,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71627,
+            "stars": 71636,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:38:39.250Z",
+    "last_updated": "2026-10-06T10:43:52.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
