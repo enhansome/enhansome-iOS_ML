@@ -19,7 +19,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20802,
+            "stars": 20803,
             "topics": [
               "mxnet"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11151,
+            "stars": 11152,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2851,
+                "stars": 2850,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T07:16:03Z",
-                    "open_issues": 3407,
+                    "last_commit": "2026-10-13T07:37:50Z",
+                    "open_issues": 3425,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200876,
+                    "stars": 200910,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -1534,7 +1534,7 @@
                 "open_issues": 120,
                 "owner": "gali8",
                 "repo": "Tesseract-OCR-iOS",
-                "stars": 4214,
+                "stars": 4213,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -1555,7 +1555,7 @@
                 "open_issues": 0,
                 "owner": "ldiqual",
                 "repo": "tesseract-ios",
-                "stars": 580,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2875,7 +2875,7 @@
                 "open_issues": 976,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 27984,
+                "stars": 27982,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2896,7 +2896,7 @@
                 "open_issues": 976,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 27984,
+                "stars": 27982,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3242,11 +3242,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:52:52Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-13T00:31:03Z",
+            "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74573,
+            "stars": 74577,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71804,
+            "stars": 71841,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3290,10 +3290,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-09T16:18:23Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30136,
+            "stars": 30139,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3325,7 +3325,7 @@
             "open_issues": 97,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23591,
+            "stars": 23590,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3346,7 +3346,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9471,
+            "stars": 9473,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:27:42.195Z",
+    "last_updated": "2026-10-13T07:48:51.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
