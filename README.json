@@ -19,7 +19,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20792,
+            "stars": 20793,
             "topics": [
               "mxnet"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11151,
+            "stars": 11152,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7981,
+            "stars": 7983,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -404,7 +404,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -459,7 +459,7 @@
                 "open_issues": 75,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11217,
+                "stars": 11218,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -485,7 +485,7 @@
                     "open_issues": 297,
                     "owner": "tiny-dnn",
                     "repo": "tiny-dnn",
-                    "stars": 6028,
+                    "stars": 6027,
                     "topics": [
                       "c-plus-plus",
                       "deep-learning",
@@ -507,7 +507,7 @@
                 "open_issues": 297,
                 "owner": "tiny-dnn",
                 "repo": "tiny-dnn",
-                "stars": 6028,
+                "stars": 6027,
                 "topics": [
                   "c-plus-plus",
                   "deep-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2848,
+                "stars": 2849,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T08:23:05Z",
-                    "open_issues": 3432,
+                    "last_commit": "2026-11-11T07:40:13Z",
+                    "open_issues": 3431,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201426,
+                    "stars": 201478,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -1231,7 +1231,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7799,
+            "stars": 7803,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2291,7 +2291,7 @@
                 "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4628,
+                "stars": 4629,
                 "topics": [
                   "deprecated",
                   "ios",
@@ -2817,13 +2817,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "LibXtract is a simple, portable, lightweight library of audio feature extraction functions.",
+                "description": "A portable C99 library of feature extraction functions for time series and other numeric data",
                 "homepage": null,
                 "id": 4509249,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-11-10T08:12:19Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-11T06:34:29Z",
+                "open_issues": 1,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
                 "stars": 232,
@@ -3246,7 +3246,7 @@
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74789,
+            "stars": 74791,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72728,
+            "stars": 72757,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3289,11 +3289,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-04T15:46:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T10:15:31Z",
+            "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30314,
+            "stars": 30317,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3325,7 +3325,7 @@
             "open_issues": 100,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23634,
+            "stars": 23640,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3346,7 +3346,7 @@
             "open_issues": 29,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9545,
+            "stars": 9547,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:28:37.543Z",
+    "last_updated": "2026-11-11T07:48:39.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
