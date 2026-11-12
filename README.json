@@ -19,7 +19,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20793,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -404,7 +404,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556,
+                "stars": 34555,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -485,7 +485,7 @@
                     "open_issues": 297,
                     "owner": "tiny-dnn",
                     "repo": "tiny-dnn",
-                    "stars": 6027,
+                    "stars": 6026,
                     "topics": [
                       "c-plus-plus",
                       "deep-learning",
@@ -507,7 +507,7 @@
                 "open_issues": 297,
                 "owner": "tiny-dnn",
                 "repo": "tiny-dnn",
-                "stars": 6027,
+                "stars": 6026,
                 "topics": [
                   "c-plus-plus",
                   "deep-learning",
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T07:40:13Z",
-                    "open_issues": 3431,
+                    "last_commit": "2026-11-12T08:23:44Z",
+                    "open_issues": 3442,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201478,
+                    "stars": 201571,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -892,7 +892,7 @@
                 "open_issues": 3,
                 "owner": "CAS-CLab",
                 "repo": "quantized-cnn",
-                "stars": 277,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -962,7 +962,7 @@
                 "open_issues": 49,
                 "owner": "Maratyszcza",
                 "repo": "NNPACK",
-                "stars": 1711,
+                "stars": 1710,
                 "topics": [
                   "convolutional-layers",
                   "cpu",
@@ -1103,7 +1103,7 @@
                 "open_issues": 48,
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
-                "stars": 1275,
+                "stars": 1274,
                 "topics": [
                   "caffe",
                   "imagenet",
@@ -1156,7 +1156,7 @@
                 "open_issues": 3,
                 "owner": "chengshengchan",
                 "repo": "model_compression",
-                "stars": 344,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -1231,7 +1231,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7803,
+            "stars": 7802,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2822,11 +2822,11 @@
                 "id": 4509249,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-11-11T06:34:29Z",
+                "last_commit": "2026-11-12T06:36:58Z",
                 "open_issues": 1,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2938,7 +2938,7 @@
                 "open_issues": 0,
                 "owner": "v5tech",
                 "repo": "awesome-ios-chart",
-                "stars": 1514,
+                "stars": 1515,
                 "topics": [
                   "chart",
                   "ios-charts",
@@ -3242,11 +3242,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T23:05:27Z",
+            "last_commit": "2026-11-11T19:58:53Z",
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74791,
+            "stars": 74803,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72757,
+            "stars": 72788,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3293,7 +3293,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30317,
+            "stars": 30318,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3322,10 +3322,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
-            "open_issues": 100,
+            "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23640,
+            "stars": 23643,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3346,7 +3346,7 @@
             "open_issues": 29,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9547,
+            "stars": 9550,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:48:39.958Z",
+    "last_updated": "2026-11-12T08:25:48.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
