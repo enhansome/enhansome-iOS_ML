@@ -42,7 +42,7 @@
             "open_issues": 522,
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11151,
+            "stars": 11152,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -404,7 +404,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34554,
+                "stars": 34555,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 62,
                 "owner": "jetpacapp",
                 "repo": "DeepBeliefSDK",
-                "stars": 2849,
+                "stars": 2848,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T07:51:14Z",
-                    "open_issues": 3438,
+                    "last_commit": "2026-11-14T07:11:38Z",
+                    "open_issues": 3433,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201582,
+                    "stars": 201591,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -829,7 +829,7 @@
                 "open_issues": 18,
                 "owner": "xmartlabs",
                 "repo": "Bender",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "apple",
                   "convolutional-neural-networks",
@@ -1231,7 +1231,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7803,
+            "stars": 7804,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2822,7 +2822,7 @@
                 "id": 4509249,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-11-13T07:53:19Z",
+                "last_commit": "2026-11-13T20:00:06Z",
                 "open_issues": 1,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
@@ -3246,7 +3246,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74813,
+            "stars": 74820,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3264,10 +3264,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72825,
+            "stars": 72855,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3293,7 +3293,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30323,
+            "stars": 30329,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3343,10 +3343,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-08-19T02:14:10Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9550,
+            "stars": 9553,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:08:53.831Z",
+    "last_updated": "2026-11-14T07:39:55.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
