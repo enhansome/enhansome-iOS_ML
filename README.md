@@ -360,7 +360,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 * [Brain.js](https://github.com/harthur/brain) ⚠️ Archived - JS
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) ⭐ 6,028 | 🐛 13 | 🌐 Swift | 📅 2017-05-03 - Swift
-* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 899 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Objective-C, Accelerate
+* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 898 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Objective-C, Accelerate
 * [SNNeuralNet](https://github.com/devongovett/SNNeuralNet) ⭐ 42 | 🐛 0 | 🌐 Objective-C | 📅 2013-12-05 - Objective-C port of brain.js
 * [ios-BPN-NeuralNetwork](https://github.com/Kalvar/ios-BPN-NeuralNetwork) ⭐ 33 | 🐛 0 | 🌐 Objective-C | 📅 2015-11-15 - Objective-C
 * [SwiftSimpleNeuralNetwork](https://github.com/davecom/SwiftSimpleNeuralNetwork) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2024-09-17 - Swift
@@ -372,7 +372,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
 
 ### On-Device training and inference
 
-* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31. \[BSD]
+* [Caffe](http://caffe.berkeleyvision.org) - A deep learning framework developed with cleanliness, readability, and speed in mind. [GitHub](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31. \[BSD]
   * [caffe-mobile](https://github.com/solrex/caffe-mobile) ⭐ 312 | 🐛 11 | 🌐 C++ | 📅 2018-08-07 - another iOS port.
   * [Caffe iOS sample](https://github.com/noradaiko/caffe-ios-sample) ⭐ 99 | 🐛 0 | 🌐 Objective-C++ | 📅 2016-01-04
   * [iOS port](https://github.com/aleph7/caffe) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2016-01-31
@@ -388,7 +388,7 @@ Core ML currently doesn't support training models, but still, you can replace mo
   * [iOS demo app](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
   * [Cocoa Pod](https://github.com/RobertBiehl/caffe2-ios) ⭐ 71 | 🐛 4 | 🌐 C++ | 📅 2019-10-01
 * [TensorFlow](http://www.tensorflow.org/) - an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.
-  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 201,658 | 🐛 3,452 | 🌐 C++ | 📅 2026-11-20
+  * [iOS examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples) ⭐ 201,670 | 🐛 3,470 | 🌐 C++ | 📅 2026-11-21
   * [another example](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 437 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
   * [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) ⚠️ Archived - TensorFlow binding for [Perfect](http://perfect.org/) (server-side Swift framework). Includes only C TF API.
 * [Torch](http://torch.ch/) is a scientific computing framework with wide support for machine learning algorithms.
@@ -432,7 +432,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="cv"/>Computer Vision
 
-* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) ⭐ 7,806 | 🐛 361 | 🌐 MATLAB | 📅 2024-06-01 – a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
+* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) ⭐ 7,807 | 🐛 361 | 🌐 MATLAB | 📅 2024-06-01 – a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
   * [iOS port](https://github.com/FaceAR/OpenFaceIOS) ⭐ 506 | 🐛 2 | 🌐 C++ | 📅 2017-05-18
   * [iOS demo](https://github.com/FaceAR/OpenFaceIOS) ⭐ 506 | 🐛 2 | 🌐 C++ | 📅 2017-05-18
 * [ccv](http://libccv.org) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
@@ -467,7 +467,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="ocr"/>Text Recognition (OCR)
 
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,513 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,512 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - JS OCR
 * **Tesseract**
   * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,209 | 🐛 120 | 🌐 C | 📅 2021-05-03
   * [tesseract-ios](https://github.com/ldiqual/tesseract-ios) ⚠️ Archived
@@ -512,7 +512,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### Deep Learning
 
-* [Feedforward style transfer](https://github.com/jcjohnson/fast-neural-style) ⭐ 4,362 | 🐛 136 | 🌐 Lua | 📅 2023-10-03, Lua implementation
+* [Feedforward style transfer](https://github.com/jcjohnson/fast-neural-style) ⭐ 4,363 | 🐛 136 | 🌐 Lua | 📅 2023-10-03, Lua implementation
 * [TensorFlow implementation of Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,099 | 🐛 68 | 🌐 Python | 📅 2020-12-24
 * [Texture Networks](https://github.com/DmitryUlyanov/texture_nets) ⭐ 1,222 | 🐛 42 | 🌐 Lua | 📅 2018-01-07, Lua implementation
 * [VGGNet on Metal](https://github.com/hollance/VGGNet-Metal) ⭐ 184 | 🐛 3 | 🌐 Swift | 📅 2017-04-10
@@ -573,7 +573,7 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 ### <a name="stat"/>Statistics, random numbers
 
-* [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) ⭐ 706 | 🐛 10 | 🌐 Swift | 📅 2022-02-08 - A collection of functions for statistical calculation written in Swift.
+* [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) ⭐ 705 | 🐛 10 | 🌐 Swift | 📅 2022-02-08 - A collection of functions for statistical calculation written in Swift.
 * [SORandom](https://github.com/SebastianOsinski/SORandom) ⭐ 54 | 🐛 0 | 🌐 Swift | 📅 2015-12-17 - Collection of functions for generating psuedorandom variables from various distributions
 * [RandKit](https://github.com/aidangomez/RandKit) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2017-07-06 - Swift framework for random numbers & distributions.
 
@@ -704,14 +704,14 @@ These libraries doesn't support training, so you need to pre-train models in som
 
 # <a name="lists"/>Other Lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,855 | 🐛 37 | 🌐 Python | 📅 2026-11-12
-* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 73,026 | 🐛 67 | 📅 2023-05-04
-* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,349 | 🐛 1 | 📅 2026-11-17
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,657 | 🐛 99 | 📅 2024-05-17
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,574 | 🐛 31 | 📅 2024-08-19
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,866 | 🐛 37 | 🌐 Python | 📅 2026-11-12
+* [Machine Learning Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 73,057 | 🐛 67 | 📅 2023-05-04
+* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,351 | 🐛 1 | 📅 2026-11-20
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,659 | 🐛 99 | 📅 2024-05-17
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,575 | 🐛 31 | 📅 2024-08-19
 * [Speech and language processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 18 | 📅 2019-04-02
 * [The Rise of Chat Bots:](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)  Useful Links, Articles, Libraries and Platforms by Pavlo Bashmakov.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
