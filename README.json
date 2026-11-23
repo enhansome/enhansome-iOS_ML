@@ -19,7 +19,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20792,
+            "stars": 20791,
             "topics": [
               "mxnet"
             ]
@@ -123,7 +123,7 @@
             "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7984,
+            "stars": 7983,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Swift-AI",
             "repo": "Swift-AI",
-            "stars": 6028,
+            "stars": 6029,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -404,7 +404,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34554,
+                "stars": 34555,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -459,7 +459,7 @@
                 "open_issues": 76,
                 "owner": "karpathy",
                 "repo": "convnetjs",
-                "stars": 11221,
+                "stars": 11223,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -679,11 +679,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-22T07:53:53Z",
-                    "open_issues": 3480,
+                    "last_commit": "2026-11-23T09:11:13Z",
+                    "open_issues": 3492,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201713,
+                    "stars": 201790,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -1031,7 +1031,7 @@
                     "open_issues": 4,
                     "owner": "shu223",
                     "repo": "iOS-10-Sampler",
-                    "stars": 3264,
+                    "stars": 3263,
                     "topics": [
                       "cnn",
                       "convolutional-neural-networks",
@@ -2822,8 +2822,8 @@
                 "id": 4509249,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-11-21T23:18:38Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-23T07:52:24Z",
+                "open_issues": 2,
                 "owner": "jamiebullock",
                 "repo": "LibXtract",
                 "stars": 233,
@@ -2875,7 +2875,7 @@
                 "open_issues": 978,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 27970,
+                "stars": 27971,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -2896,7 +2896,7 @@
                 "open_issues": 978,
                 "owner": "ChartsOrg",
                 "repo": "Charts",
-                "stars": 27970,
+                "stars": 27971,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3243,10 +3243,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-21T15:46:05Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74877,
+            "stars": 74891,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 67,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 73079,
+            "stars": 73110,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3293,7 +3293,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30358,
+            "stars": 30357,
             "topics": [
               "analytics",
               "awesome-list",
@@ -3325,7 +3325,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23663,
+            "stars": 23666,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:54.609Z"
@@ -3346,7 +3346,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9578,
+            "stars": 9579,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -3382,7 +3382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:10:18.285Z",
+    "last_updated": "2026-11-23T09:13:37.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.",
